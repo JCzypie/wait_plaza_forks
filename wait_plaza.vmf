@@ -1,8 +1,8 @@
 versioninfo
 {
 	"editorversion" "400"
-	"editorbuild" "8870"
-	"mapversion" "488"
+	"editorbuild" "8872"
+	"mapversion" "489"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -89,7 +89,7 @@ bgimages_plus
 world
 {
 	"id" "1"
-	"mapversion" "488"
+	"mapversion" "489"
 	"classname" "worldspawn"
 	"chaptertitlenomessage" "1"
 	"detailmaterial" "detail/detailsprites_2fort"
@@ -36535,9 +36535,13 @@ entity
 {
 	"id" "7777"
 	"classname" "tf_gamerules"
+	"activeteam1" "1"
+	"activeteam2" "1"
 	"ctf_overtime" "1"
 	"fourteammode" "1"
 	"hud_type" "2"
+	"ropes_holiday_lights_allowed" "1"
+	"spawncamp_window_override" "-1"
 	"targetname" "gamerules"
 	"origin" "160 -256 8"
 	editor
@@ -44586,6 +44590,7 @@ entity
 	"flag_trail" "flagtrail"
 	"GameType" "3"
 	"NeutralType" "0"
+	"ReturnBetweenWaves" "1"
 	"ReturnTime" "15"
 	"ScoringType" "1"
 	"skin" "0"
@@ -122666,8 +122671,8 @@ cameras
 	"activecamera" "0"
 	camera
 	{
-		"position" "[-2835.34 6231 315.676]"
-		"look" "[-2834.31 6230.93 315.654]"
+		"position" "[-2691.79 3710 192.197]"
+		"look" "[-2691.85 3710.33 191.218]"
 	}
 }
 cordons
