@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8872"
-	"mapversion" "25"
+	"mapversion" "28"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -89,7 +89,7 @@ bgimages_plus
 world
 {
 	"id" "1"
-	"mapversion" "25"
+	"mapversion" "28"
 	"classname" "worldspawn"
 	"chaptertitlenomessage" "1"
 	"detailmaterial" "detail/detailsprites_2fort"
@@ -20127,7 +20127,7 @@ world
 				"v" "-656 464 176"
 				"v" "-640 464 176"
 			}
-			"material" "DEV/REFLECTIVITY_30B"
+			"material" "CP_MANOR/PLASTER_WHITE01"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -28036,7 +28036,7 @@ entity
 {
 	"id" "263"
 	"classname" "prop_static"
-	"angles" "0 270 0"
+	"angles" "0 180 0"
 	"disableselfshadowing" "0"
 	"disableshadows" "0"
 	"disablevertexlighting" "0"
@@ -28049,9 +28049,9 @@ entity
 	"lightmapresolutiony" "32"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
-	"model" "models/props_office/pictureframe_scalable.mdl"
+	"model" "models/props_medieval/pictureframe001.mdl"
 	"screenspacefade" "0"
-	"skin" "1"
+	"skin" "0"
 	"solid" "0"
 	"origin" "-696 454 80"
 	editor
@@ -37014,7 +37014,7 @@ entity
 {
 	"id" "526"
 	"classname" "prop_static"
-	"angles" "0 270 0"
+	"angles" "0 180 0"
 	"disableselfshadowing" "0"
 	"disableshadows" "0"
 	"disablevertexlighting" "0"
@@ -37027,7 +37027,7 @@ entity
 	"lightmapresolutiony" "32"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
-	"model" "models/props_office/pictureframe_scalable.mdl"
+	"model" "models/props_medieval/pictureframe001.mdl"
 	"screenspacefade" "0"
 	"skin" "0"
 	"solid" "0"
@@ -37105,7 +37105,7 @@ entity
 {
 	"id" "540"
 	"classname" "prop_static"
-	"angles" "0 270 0"
+	"angles" "0 180 0"
 	"disableselfshadowing" "0"
 	"disableshadows" "0"
 	"disablevertexlighting" "0"
@@ -37118,9 +37118,9 @@ entity
 	"lightmapresolutiony" "32"
 	"maxdxlevel" "0"
 	"mindxlevel" "0"
-	"model" "models/props_office/pictureframe_scalable.mdl"
+	"model" "models/props_medieval/pictureframe001.mdl"
 	"screenspacefade" "0"
-	"skin" "2"
+	"skin" "0"
 	"solid" "0"
 	"origin" "-928 454 80"
 	editor

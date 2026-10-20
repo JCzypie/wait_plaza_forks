@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8872"
-	"mapversion" "50"
+	"mapversion" "52"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -89,7 +89,7 @@ bgimages_plus
 world
 {
 	"id" "1"
-	"mapversion" "50"
+	"mapversion" "52"
 	"classname" "worldspawn"
 	"chaptertitlenomessage" "1"
 	"detailmaterial" "detail/detailsprites_2fort"
@@ -312,7 +312,7 @@ world
 				"v" "420 -612 0"
 				"v" "284 -612 0"
 			}
-			"material" "EGYPT/SAND_FLOOR_BLEND_03_REFLECT"
+			"material" "EGYPT/SAND_GRASS_BLEND_02"
 			"uaxis" "[1 0 0 -384] 0.25"
 			"vaxis" "[0 -1 0 -384] 0.25"
 			"rotation" "0"
@@ -1032,7 +1032,7 @@ entity
 				"v" "292 -464 0"
 				"v" "412 -464 0"
 			}
-			"material" "EGYPT/HYRO_03_REFLECT"
+			"material" "EGYPT/EGYPT_MARBLE_HIERO002"
 			"uaxis" "[1 0 0 -384] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -1050,7 +1050,7 @@ entity
 				"v" "292 -468 140"
 				"v" "412 -468 140"
 			}
-			"material" "EGYPT/HYRO_03_REFLECT"
+			"material" "EGYPT/EGYPT_MARBLE_HIERO002"
 			"uaxis" "[1 0 0 -384] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -1107,7 +1107,7 @@ entity
 				"v" "420 -420 -4"
 				"v" "420 -420 140"
 			}
-			"material" "EGYPT/FLAT_WALL_03_REFLECT"
+			"material" "EGYPT/EGYPT_MARBLE001"
 			"uaxis" "[0 1 0 384] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -1141,7 +1141,7 @@ entity
 				"v" "420 -612 -4"
 				"v" "420 -420 140"
 			}
-			"material" "EGYPT/FLAT_WALL_03_REFLECT"
+			"material" "EGYPT/EGYPT_MARBLE001"
 			"uaxis" "[1 0 0 -384] 0.25"
 			"vaxis" "[0 -1 0 -384] 0.25"
 			"rotation" "0"
@@ -1158,7 +1158,7 @@ entity
 				"v" "612 -612 -4"
 				"v" "420 -420 140"
 			}
-			"material" "EGYPT/FLAT_WALL_03_REFLECT"
+			"material" "EGYPT/EGYPT_MARBLE001"
 			"uaxis" "[0 1 0 384] 0.25"
 			"vaxis" "[1 0 0 -384] 0.25"
 			"rotation" "90"
@@ -1222,7 +1222,7 @@ entity
 				"v" "612 -284 -4"
 				"v" "612 -420 -4"
 			}
-			"material" "EGYPT/FLAT_WALL_03_REFLECT"
+			"material" "EGYPT/EGYPT_MARBLE001"
 			"uaxis" "[0 1 0 384] 0.25"
 			"vaxis" "[1 0 0 -384] 0.25"
 			"rotation" "0"
@@ -1301,7 +1301,7 @@ entity
 				"v" "284 -284 140"
 				"v" "420 -284 140"
 			}
-			"material" "EGYPT/FLAT_WALL_03_REFLECT"
+			"material" "EGYPT/EGYPT_MARBLE001"
 			"uaxis" "[1 0 0 -384] 0.25"
 			"vaxis" "[0 -1 0 -384] 0.25"
 			"rotation" "0"
@@ -1318,7 +1318,7 @@ entity
 				"v" "284 -420 140"
 				"v" "352 -352 191"
 			}
-			"material" "EGYPT/FLAT_WALL_03_REFLECT"
+			"material" "EGYPT/EGYPT_MARBLE001"
 			"uaxis" "[1 0 0 -384] 0.25"
 			"vaxis" "[0 -1 0 -384] 0.25"
 			"rotation" "0"
@@ -1335,7 +1335,7 @@ entity
 				"v" "420 -284 140"
 				"v" "420 -420 140"
 			}
-			"material" "EGYPT/FLAT_WALL_03_REFLECT"
+			"material" "EGYPT/EGYPT_MARBLE001"
 			"uaxis" "[0 1 0 384] 0.25"
 			"vaxis" "[1 0 0 -384] 0.25"
 			"rotation" "90"
@@ -1352,7 +1352,7 @@ entity
 				"v" "284 -284 140"
 				"v" "352 -352 191"
 			}
-			"material" "EGYPT/FLAT_WALL_03_REFLECT"
+			"material" "EGYPT/EGYPT_MARBLE001"
 			"uaxis" "[0 1 0 384] 0.25"
 			"vaxis" "[1 0 0 -384] 0.25"
 			"rotation" "90"
@@ -1380,7 +1380,7 @@ entity
 				"v" "294.667 -409.334 148"
 				"v" "409.334 -409.334 148"
 			}
-			"material" "EGYPT/FLAT_WALL_03_REFLECT"
+			"material" "EGYPT/EGYPT_MARBLE001"
 			"uaxis" "[1 0 0 -384] 0.25"
 			"vaxis" "[0 -1 0 -384] 0.25"
 			"rotation" "0"
@@ -1416,7 +1416,7 @@ entity
 				"v" "294.668 -480 148"
 				"v" "409.333 -480 148"
 			}
-			"material" "EGYPT/FLAT_WALL_03_REFLECT"
+			"material" "EGYPT/EGYPT_MARBLE001"
 			"uaxis" "[1 0 0 -384] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -1452,7 +1452,7 @@ entity
 				"v" "420 -420 140"
 				"v" "420 -480 140"
 			}
-			"material" "EGYPT/FLAT_WALL_03_REFLECT"
+			"material" "EGYPT/EGYPT_MARBLE001"
 			"uaxis" "[1 0 0 -384] 0.25"
 			"vaxis" "[0 -1 0 -384] 0.25"
 			"rotation" "0"
@@ -1470,7 +1470,7 @@ entity
 				"v" "294.668 -409.332 148"
 				"v" "294.668 -480 148"
 			}
-			"material" "EGYPT/FLAT_WALL_03_REFLECT"
+			"material" "EGYPT/EGYPT_MARBLE001"
 			"uaxis" "[1 0 0 -384] 0.25"
 			"vaxis" "[0 -1 0 -384] 0.25"
 			"rotation" "0"
@@ -1534,7 +1534,7 @@ entity
 				"v" "412 -284 140"
 				"v" "412 -480 140"
 			}
-			"material" "EGYPT/HYRO_03_REFLECT"
+			"material" "EGYPT/EGYPT_MARBLE_HIERO002"
 			"uaxis" "[0 1 0 384] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -1552,7 +1552,7 @@ entity
 				"v" "420 -480 140"
 				"v" "420 -284 140"
 			}
-			"material" "EGYPT/FLAT_WALL_03_REFLECT"
+			"material" "EGYPT/EGYPT_MARBLE001"
 			"uaxis" "[0 1 0 384] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -1588,7 +1588,7 @@ entity
 				"v" "412 -480 140"
 				"v" "420 -480 140"
 			}
-			"material" "EGYPT/FLAT_WALL_03_REFLECT"
+			"material" "EGYPT/EGYPT_MARBLE001"
 			"uaxis" "[1 0 0 -384] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -1652,7 +1652,7 @@ entity
 				"v" "284 -284 140"
 				"v" "284 -480 140"
 			}
-			"material" "EGYPT/FLAT_WALL_03_REFLECT"
+			"material" "EGYPT/EGYPT_MARBLE001"
 			"uaxis" "[0 1 0 384] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -1670,7 +1670,7 @@ entity
 				"v" "292 -480 140"
 				"v" "292 -284 140"
 			}
-			"material" "EGYPT/HYRO_03_REFLECT"
+			"material" "EGYPT/EGYPT_MARBLE_HIERO002"
 			"uaxis" "[0 1 0 384] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -1706,7 +1706,7 @@ entity
 				"v" "284 -480 140"
 				"v" "292 -480 140"
 			}
-			"material" "EGYPT/FLAT_WALL_03_REFLECT"
+			"material" "EGYPT/EGYPT_MARBLE001"
 			"uaxis" "[1 0 0 -384] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -1768,7 +1768,7 @@ entity
 				"v" "284 -420 -4"
 				"v" "284 -612 -4"
 			}
-			"material" "EGYPT/FLAT_WALL_03_REFLECT"
+			"material" "EGYPT/EGYPT_MARBLE001"
 			"uaxis" "[0 1 0 384] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -1785,7 +1785,7 @@ entity
 				"v" "92 -420 -4"
 				"v" "284 -420 140"
 			}
-			"material" "EGYPT/FLAT_WALL_03_REFLECT"
+			"material" "EGYPT/EGYPT_MARBLE001"
 			"uaxis" "[0 1 0 384] 0.25"
 			"vaxis" "[1 0 0 -384] 0.25"
 			"rotation" "90"
@@ -1802,7 +1802,7 @@ entity
 				"v" "92 -612 -4"
 				"v" "284 -420 140"
 			}
-			"material" "EGYPT/FLAT_WALL_03_REFLECT"
+			"material" "EGYPT/EGYPT_MARBLE001"
 			"uaxis" "[1 0 0 -384] 0.25"
 			"vaxis" "[0 -1 0 -384] 0.25"
 			"rotation" "0"
@@ -1848,7 +1848,7 @@ entity
 				"v" "284 -284 140"
 				"v" "284 -420 140"
 			}
-			"material" "EGYPT/FLAT_WALL_03_REFLECT"
+			"material" "EGYPT/EGYPT_MARBLE001"
 			"uaxis" "[0 1 0 384] 0.25"
 			"vaxis" "[1 0 0 -384] 0.25"
 			"rotation" "0"
@@ -1979,7 +1979,7 @@ entity
 				"v" "284 -92 -4"
 				"v" "284 -284 140"
 			}
-			"material" "EGYPT/FLAT_WALL_03_REFLECT"
+			"material" "EGYPT/EGYPT_MARBLE001"
 			"uaxis" "[1 0 0 -384] 0.25"
 			"vaxis" "[0 -1 0 -384] 0.25"
 			"rotation" "0"
@@ -1996,7 +1996,7 @@ entity
 				"v" "92 -92 -4"
 				"v" "284 -284 140"
 			}
-			"material" "EGYPT/FLAT_WALL_03_REFLECT"
+			"material" "EGYPT/EGYPT_MARBLE001"
 			"uaxis" "[0 1 0 384] 0.25"
 			"vaxis" "[1 0 0 -384] 0.25"
 			"rotation" "90"
@@ -2076,7 +2076,7 @@ entity
 				"v" "420 -284 140"
 				"v" "284 -284 140"
 			}
-			"material" "EGYPT/FLAT_WALL_03_REFLECT"
+			"material" "EGYPT/EGYPT_MARBLE001"
 			"uaxis" "[1 0 0 -384] 0.25"
 			"vaxis" "[0 -1 0 -384] 0.25"
 			"rotation" "0"
@@ -2173,7 +2173,7 @@ entity
 				"v" "612 -284 -4"
 				"v" "420 -284 140"
 			}
-			"material" "EGYPT/FLAT_WALL_03_REFLECT"
+			"material" "EGYPT/EGYPT_MARBLE001"
 			"uaxis" "[0 1 0 384] 0.25"
 			"vaxis" "[1 0 0 -384] 0.25"
 			"rotation" "90"
@@ -2190,7 +2190,7 @@ entity
 				"v" "612 -92 -4"
 				"v" "420 -284 140"
 			}
-			"material" "EGYPT/FLAT_WALL_03_REFLECT"
+			"material" "EGYPT/EGYPT_MARBLE001"
 			"uaxis" "[1 0 0 -384] 0.25"
 			"vaxis" "[0 -1 0 -384] 0.25"
 			"rotation" "0"
@@ -2308,7 +2308,7 @@ entity
 				"v" "292 -288 140"
 				"v" "416 -288 140"
 			}
-			"material" "EGYPT/HYRO_03_REFLECT"
+			"material" "EGYPT/EGYPT_MARBLE_HIERO002"
 			"uaxis" "[1 0 0 -384] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"

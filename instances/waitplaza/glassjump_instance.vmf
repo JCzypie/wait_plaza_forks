@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8872"
-	"mapversion" "330"
+	"mapversion" "337"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -89,7 +89,7 @@ bgimages_plus
 world
 {
 	"id" "1"
-	"mapversion" "330"
+	"mapversion" "337"
 	"classname" "worldspawn"
 	"chaptertitlenomessage" "1"
 	"detailmaterial" "detail/detailsprites_2fort"
@@ -494,10 +494,10 @@ world
 				"v" "13888 10064 -16"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "64"
 			"smoothing_groups" "0"
 		}
 		side
@@ -540,10 +540,10 @@ world
 				"v" "13831.4 10638.3 8"
 			}
 			"material" "LONDON/TILE/LONDON_TILEFLOOR_001B"
-			"uaxis" "[-0 -1 0 336] 1"
+			"uaxis" "[0 -1 0 336] 1"
 			"vaxis" "[-1 0 0 192] 1"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "64"
 			"smoothing_groups" "0"
 		}
 		side
@@ -558,10 +558,10 @@ world
 				"v" "13888 10064 8"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "64"
 			"smoothing_groups" "0"
 		}
 		side
@@ -576,10 +576,10 @@ world
 				"v" "13831.4 9489.7 8"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "64"
 			"smoothing_groups" "0"
 		}
 		side
@@ -594,10 +594,10 @@ world
 				"v" "13663.9 8937.4 8"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "64"
 			"smoothing_groups" "0"
 		}
 		side
@@ -612,10 +612,10 @@ world
 				"v" "13391.8 8428.4 8"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "64"
 			"smoothing_groups" "0"
 		}
 		side
@@ -630,10 +630,10 @@ world
 				"v" "13025.7 7982.3 8"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "64"
 			"smoothing_groups" "0"
 		}
 		side
@@ -648,10 +648,10 @@ world
 				"v" "12579.6 7616.2 8"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "64"
 			"smoothing_groups" "0"
 		}
 		side
@@ -666,10 +666,10 @@ world
 				"v" "12070.6 7344.1 8"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "64"
 			"smoothing_groups" "0"
 		}
 		side
@@ -684,10 +684,10 @@ world
 				"v" "11518.3 7176.6 8"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "64"
 			"smoothing_groups" "0"
 		}
 		side
@@ -702,10 +702,10 @@ world
 				"v" "10944 7120 8"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "64"
 			"smoothing_groups" "0"
 		}
 		side
@@ -720,10 +720,10 @@ world
 				"v" "10369.7 7176.6 8"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "64"
 			"smoothing_groups" "0"
 		}
 		side
@@ -738,10 +738,10 @@ world
 				"v" "9817.38 7344.1 8"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "64"
 			"smoothing_groups" "0"
 		}
 		side
@@ -756,10 +756,10 @@ world
 				"v" "9308.4 7616.2 8"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "64"
 			"smoothing_groups" "0"
 		}
 		side
@@ -774,10 +774,10 @@ world
 				"v" "8862.28 7982.3 8"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "64"
 			"smoothing_groups" "0"
 		}
 		side
@@ -792,10 +792,10 @@ world
 				"v" "8496.15 8428.4 8"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "64"
 			"smoothing_groups" "0"
 		}
 		side
@@ -810,10 +810,10 @@ world
 				"v" "8224.1 8937.4 8"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "64"
 			"smoothing_groups" "0"
 		}
 		side
@@ -828,10 +828,10 @@ world
 				"v" "8056.57 9489.7 8"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "64"
 			"smoothing_groups" "0"
 		}
 		side
@@ -846,10 +846,10 @@ world
 				"v" "8000 10064 8"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "64"
 			"smoothing_groups" "0"
 		}
 		side
@@ -864,10 +864,10 @@ world
 				"v" "8056.57 10638.3 8"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "64"
 			"smoothing_groups" "0"
 		}
 		side
@@ -882,10 +882,10 @@ world
 				"v" "8224.1 11190.6 8"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "64"
 			"smoothing_groups" "0"
 		}
 		side
@@ -900,10 +900,10 @@ world
 				"v" "8496.15 11699.6 8"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "64"
 			"smoothing_groups" "0"
 		}
 		side
@@ -918,10 +918,10 @@ world
 				"v" "8862.28 12145.7 8"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "64"
 			"smoothing_groups" "0"
 		}
 		side
@@ -936,10 +936,10 @@ world
 				"v" "9308.4 12511.8 8"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "64"
 			"smoothing_groups" "0"
 		}
 		side
@@ -954,10 +954,10 @@ world
 				"v" "9817.38 12783.9 8"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "64"
 			"smoothing_groups" "0"
 		}
 		side
@@ -972,10 +972,10 @@ world
 				"v" "10369.7 12951.4 8"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "64"
 			"smoothing_groups" "0"
 		}
 		side
@@ -990,10 +990,10 @@ world
 				"v" "10944 13008 8"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "64"
 			"smoothing_groups" "0"
 		}
 		side
@@ -1008,10 +1008,10 @@ world
 				"v" "11518.3 12951.4 8"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "64"
 			"smoothing_groups" "0"
 		}
 		side
@@ -1026,10 +1026,10 @@ world
 				"v" "12070.6 12783.9 8"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "64"
 			"smoothing_groups" "0"
 		}
 		side
@@ -1044,10 +1044,10 @@ world
 				"v" "12579.6 12511.8 8"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "64"
 			"smoothing_groups" "0"
 		}
 		side
@@ -1062,10 +1062,10 @@ world
 				"v" "13025.7 12145.7 8"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "64"
 			"smoothing_groups" "0"
 		}
 		side
@@ -1080,10 +1080,10 @@ world
 				"v" "13391.8 11699.6 8"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "64"
 			"smoothing_groups" "0"
 		}
 		side
@@ -1098,10 +1098,10 @@ world
 				"v" "13663.9 11190.6 8"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "64"
 			"smoothing_groups" "0"
 		}
 		side
@@ -1116,10 +1116,10 @@ world
 				"v" "13831.4 10638.3 8"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "64"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -4528,7 +4528,7 @@ world
 			"uaxis" "[0 -1 0 32] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "64"
 			"smoothing_groups" "0"
 		}
 		side
@@ -5524,10 +5524,10 @@ world
 				"v" "10944 7120 -16"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -5542,10 +5542,10 @@ world
 				"v" "10944 7120 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -5560,10 +5560,10 @@ world
 				"v" "11506 7239 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -5578,10 +5578,10 @@ world
 				"v" "11518 7177 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -5596,10 +5596,10 @@ world
 				"v" "10944 7184 1648"
 			}
 			"material" "CONCRETE/CONCRETEWALL003D"
-			"uaxis" "[1 -0 0 -767.996] 0.25"
+			"uaxis" "[1 0 0 -767.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -5614,10 +5614,10 @@ world
 				"v" "11518 7177 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -5643,10 +5643,10 @@ world
 				"v" "11518 7177 -16"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -5661,10 +5661,10 @@ world
 				"v" "11518 7177 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -5679,10 +5679,10 @@ world
 				"v" "12046 7403 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -5697,10 +5697,10 @@ world
 				"v" "12071 7344 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -5715,10 +5715,10 @@ world
 				"v" "11506 7239 1648"
 			}
 			"material" "CONCRETE/CONCRETEWALL003"
-			"uaxis" "[1 -0 0 -767.996] 0.25"
+			"uaxis" "[1 0 0 -767.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -5733,10 +5733,10 @@ world
 				"v" "12071 7344 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -5762,10 +5762,10 @@ world
 				"v" "12071 7344 -16"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -5780,10 +5780,10 @@ world
 				"v" "12071 7344 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -5798,10 +5798,10 @@ world
 				"v" "12544 7669 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -5816,10 +5816,10 @@ world
 				"v" "12580 7616 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -5834,10 +5834,10 @@ world
 				"v" "12046 7403 1648"
 			}
 			"material" "CONCRETE/CONCRETEWALL003D"
-			"uaxis" "[1 -0 0 -767.996] 0.25"
+			"uaxis" "[1 0 0 -767.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -5852,10 +5852,10 @@ world
 				"v" "12580 7616 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -5881,10 +5881,10 @@ world
 				"v" "12580 7616 -16"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -5899,10 +5899,10 @@ world
 				"v" "12580 7616 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -5917,10 +5917,10 @@ world
 				"v" "12980 8028 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -5935,10 +5935,10 @@ world
 				"v" "13026 7982 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -5953,10 +5953,10 @@ world
 				"v" "12544 7669 1648"
 			}
 			"material" "CONCRETE/CONCRETEWALL003"
-			"uaxis" "[1 -0 0 -767.996] 0.25"
+			"uaxis" "[1 0 0 -767.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -5971,10 +5971,10 @@ world
 				"v" "13026 7982 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -6000,10 +6000,10 @@ world
 				"v" "13026 7982 -16"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -6018,10 +6018,10 @@ world
 				"v" "13026 7982 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -6036,10 +6036,10 @@ world
 				"v" "13339 8464 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -6054,10 +6054,10 @@ world
 				"v" "13392 8428 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -6072,10 +6072,10 @@ world
 				"v" "12980 8028 1648"
 			}
 			"material" "CONCRETE/CONCRETEWALL003D"
-			"uaxis" "[-0 -1 0 320] 0.25"
+			"uaxis" "[0 -1 0 320] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -6090,10 +6090,10 @@ world
 				"v" "13392 8428 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -6119,10 +6119,10 @@ world
 				"v" "13392 8428 -16"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -6137,10 +6137,10 @@ world
 				"v" "13392 8428 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -6155,10 +6155,10 @@ world
 				"v" "13605 8962 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -6173,10 +6173,10 @@ world
 				"v" "13664 8937 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -6191,10 +6191,10 @@ world
 				"v" "13339 8464 1648"
 			}
 			"material" "CONCRETE/CONCRETEWALL003"
-			"uaxis" "[-0 -1 0 320] 0.25"
+			"uaxis" "[0 -1 0 320] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -6209,10 +6209,10 @@ world
 				"v" "13664 8937 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -6238,10 +6238,10 @@ world
 				"v" "13664 8937 -16"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -6256,10 +6256,10 @@ world
 				"v" "13664 8937 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -6274,10 +6274,10 @@ world
 				"v" "13769 9502 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -6292,10 +6292,10 @@ world
 				"v" "13831 9490 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -6310,10 +6310,10 @@ world
 				"v" "13605 8962 1648"
 			}
 			"material" "CONCRETE/CONCRETEWALL003D"
-			"uaxis" "[-0 -1 0 320] 0.25"
+			"uaxis" "[0 -1 0 320] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -6328,10 +6328,10 @@ world
 				"v" "13831 9490 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -6357,10 +6357,10 @@ world
 				"v" "13831 9490 -16"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -6375,10 +6375,10 @@ world
 				"v" "13831 9490 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -6393,10 +6393,10 @@ world
 				"v" "13824 10064 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -6411,10 +6411,10 @@ world
 				"v" "13888 10064 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -6429,10 +6429,10 @@ world
 				"v" "13769 9502 1648"
 			}
 			"material" "CONCRETE/CONCRETEWALL003"
-			"uaxis" "[-0 -1 0 320] 0.25"
+			"uaxis" "[0 -1 0 320] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -6447,10 +6447,10 @@ world
 				"v" "13888 10064 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -6476,10 +6476,10 @@ world
 				"v" "13888 10064 -16"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -6494,10 +6494,10 @@ world
 				"v" "13888 10064 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -6512,10 +6512,10 @@ world
 				"v" "13769 10626 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -6530,10 +6530,10 @@ world
 				"v" "13831 10638 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -6548,10 +6548,10 @@ world
 				"v" "13824 10064 1648"
 			}
 			"material" "CONCRETE/CONCRETEWALL003D"
-			"uaxis" "[-0 -1 0 320] 0.25"
+			"uaxis" "[0 -1 0 320] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -6566,10 +6566,10 @@ world
 				"v" "13831 10638 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -6595,10 +6595,10 @@ world
 				"v" "13831 10638 -16"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -6613,10 +6613,10 @@ world
 				"v" "13831 10638 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -6631,10 +6631,10 @@ world
 				"v" "13605 11166 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -6649,10 +6649,10 @@ world
 				"v" "13664 11191 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -6667,10 +6667,10 @@ world
 				"v" "13769 10626 1648"
 			}
 			"material" "CONCRETE/CONCRETEWALL003"
-			"uaxis" "[-0 -1 0 320] 0.25"
+			"uaxis" "[0 -1 0 320] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -6685,10 +6685,10 @@ world
 				"v" "13664 11191 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -6714,10 +6714,10 @@ world
 				"v" "13664 11191 -16"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -6732,10 +6732,10 @@ world
 				"v" "13664 11191 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -6750,10 +6750,10 @@ world
 				"v" "13339 11664 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -6768,10 +6768,10 @@ world
 				"v" "13392 11700 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -6786,10 +6786,10 @@ world
 				"v" "13605 11166 1648"
 			}
 			"material" "CONCRETE/CONCRETEWALL003D"
-			"uaxis" "[-0 -1 0 320] 0.25"
+			"uaxis" "[0 -1 0 320] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -6804,10 +6804,10 @@ world
 				"v" "13392 11700 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -6833,10 +6833,10 @@ world
 				"v" "13392 11700 -16"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -6851,10 +6851,10 @@ world
 				"v" "13392 11700 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -6869,10 +6869,10 @@ world
 				"v" "12980 12100 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -6887,10 +6887,10 @@ world
 				"v" "13026 12146 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -6905,10 +6905,10 @@ world
 				"v" "13339 11664 1648"
 			}
 			"material" "CONCRETE/CONCRETEWALL003"
-			"uaxis" "[-0 -1 0 320] 0.25"
+			"uaxis" "[0 -1 0 320] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -6923,10 +6923,10 @@ world
 				"v" "13026 12146 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -6952,10 +6952,10 @@ world
 				"v" "12544 12459 -16"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -6970,10 +6970,10 @@ world
 				"v" "13026 12146 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -6988,10 +6988,10 @@ world
 				"v" "12544 12459 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -7006,10 +7006,10 @@ world
 				"v" "12580 12512 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -7024,10 +7024,10 @@ world
 				"v" "12980 12100 1648"
 			}
 			"material" "CONCRETE/CONCRETEWALL003D"
-			"uaxis" "[1 -0 0 -767.996] 0.25"
+			"uaxis" "[1 0 0 -767.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -7042,10 +7042,10 @@ world
 				"v" "12580 12512 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -7071,10 +7071,10 @@ world
 				"v" "12046 12725 -16"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -7089,10 +7089,10 @@ world
 				"v" "12580 12512 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -7107,10 +7107,10 @@ world
 				"v" "12046 12725 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -7125,10 +7125,10 @@ world
 				"v" "12071 12784 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -7143,10 +7143,10 @@ world
 				"v" "12544 12459 1648"
 			}
 			"material" "CONCRETE/CONCRETEWALL003"
-			"uaxis" "[1 -0 0 -767.996] 0.25"
+			"uaxis" "[1 0 0 -767.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -7161,10 +7161,10 @@ world
 				"v" "12071 12784 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -7190,10 +7190,10 @@ world
 				"v" "11506 12889 -16"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -7208,10 +7208,10 @@ world
 				"v" "12071 12784 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -7226,10 +7226,10 @@ world
 				"v" "11506 12889 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -7244,10 +7244,10 @@ world
 				"v" "11518 12951 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -7262,10 +7262,10 @@ world
 				"v" "12046 12725 1648"
 			}
 			"material" "CONCRETE/CONCRETEWALL003D"
-			"uaxis" "[1 -0 0 -767.996] 0.25"
+			"uaxis" "[1 0 0 -767.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -7280,10 +7280,10 @@ world
 				"v" "11518 12951 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -7309,10 +7309,10 @@ world
 				"v" "10944 12944 -16"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -7327,10 +7327,10 @@ world
 				"v" "11518 12951 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -7345,10 +7345,10 @@ world
 				"v" "10944 12944 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -7363,10 +7363,10 @@ world
 				"v" "10944 13008 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -7381,10 +7381,10 @@ world
 				"v" "11506 12889 1648"
 			}
 			"material" "CONCRETE/CONCRETEWALL003"
-			"uaxis" "[1 -0 0 -767.996] 0.25"
+			"uaxis" "[1 0 0 -767.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -7399,10 +7399,10 @@ world
 				"v" "10944 13008 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -7428,10 +7428,10 @@ world
 				"v" "10382 12889 -16"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -7446,10 +7446,10 @@ world
 				"v" "10944 13008 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -7464,10 +7464,10 @@ world
 				"v" "10382 12889 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -7482,10 +7482,10 @@ world
 				"v" "10370 12951 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -7500,10 +7500,10 @@ world
 				"v" "10944 12944 1648"
 			}
 			"material" "CONCRETE/CONCRETEWALL003D"
-			"uaxis" "[1 -0 0 -767.996] 0.25"
+			"uaxis" "[1 0 0 -767.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -7518,10 +7518,10 @@ world
 				"v" "10370 12951 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -7547,10 +7547,10 @@ world
 				"v" "9842 12725 -16"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -7565,10 +7565,10 @@ world
 				"v" "10370 12951 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -7583,10 +7583,10 @@ world
 				"v" "9842 12725 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -7601,10 +7601,10 @@ world
 				"v" "9817 12784 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -7619,10 +7619,10 @@ world
 				"v" "10382 12889 1648"
 			}
 			"material" "CONCRETE/CONCRETEWALL003"
-			"uaxis" "[1 -0 0 -767.996] 0.25"
+			"uaxis" "[1 0 0 -767.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -7637,10 +7637,10 @@ world
 				"v" "9817 12784 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -7666,10 +7666,10 @@ world
 				"v" "9344 12459 -16"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -7684,10 +7684,10 @@ world
 				"v" "9817 12784 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -7702,10 +7702,10 @@ world
 				"v" "9344 12459 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -7720,10 +7720,10 @@ world
 				"v" "9308 12512 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -7738,10 +7738,10 @@ world
 				"v" "9842 12725 1648"
 			}
 			"material" "CONCRETE/CONCRETEWALL003D"
-			"uaxis" "[1 -0 0 -767.996] 0.25"
+			"uaxis" "[1 0 0 -767.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -7756,10 +7756,10 @@ world
 				"v" "9308 12512 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -7785,10 +7785,10 @@ world
 				"v" "8908 12100 -16"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -7803,10 +7803,10 @@ world
 				"v" "9308 12512 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -7821,10 +7821,10 @@ world
 				"v" "8908 12100 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -7839,10 +7839,10 @@ world
 				"v" "8862 12146 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -7857,10 +7857,10 @@ world
 				"v" "9344 12459 1648"
 			}
 			"material" "CONCRETE/CONCRETEWALL003"
-			"uaxis" "[1 -0 0 -767.996] 0.25"
+			"uaxis" "[1 0 0 -767.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -7875,10 +7875,10 @@ world
 				"v" "8862 12146 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -7904,10 +7904,10 @@ world
 				"v" "8549 11664 -16"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -7922,10 +7922,10 @@ world
 				"v" "8862 12146 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -7940,10 +7940,10 @@ world
 				"v" "8549 11664 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -7958,10 +7958,10 @@ world
 				"v" "8496 11700 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -7976,10 +7976,10 @@ world
 				"v" "8908 12100 1648"
 			}
 			"material" "CONCRETE/CONCRETEWALL003D"
-			"uaxis" "[-0 -1 0 320] 0.25"
+			"uaxis" "[0 -1 0 320] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -7994,10 +7994,10 @@ world
 				"v" "8496 11700 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -8023,10 +8023,10 @@ world
 				"v" "8283 11166 -16"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -8041,10 +8041,10 @@ world
 				"v" "8496 11700 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -8059,10 +8059,10 @@ world
 				"v" "8283 11166 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -8077,10 +8077,10 @@ world
 				"v" "8224 11191 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -8095,10 +8095,10 @@ world
 				"v" "8549 11664 1648"
 			}
 			"material" "CONCRETE/CONCRETEWALL003"
-			"uaxis" "[-0 -1 0 320] 0.25"
+			"uaxis" "[0 -1 0 320] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -8113,10 +8113,10 @@ world
 				"v" "8224 11191 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -8142,10 +8142,10 @@ world
 				"v" "8119 10626 -16"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -8160,10 +8160,10 @@ world
 				"v" "8224 11191 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -8178,10 +8178,10 @@ world
 				"v" "8119 10626 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -8196,10 +8196,10 @@ world
 				"v" "8057 10638 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -8214,10 +8214,10 @@ world
 				"v" "8283 11166 1648"
 			}
 			"material" "CONCRETE/CONCRETEWALL003D"
-			"uaxis" "[-0 -1 0 320] 0.25"
+			"uaxis" "[0 -1 0 320] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -8232,10 +8232,10 @@ world
 				"v" "8057 10638 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -8261,10 +8261,10 @@ world
 				"v" "8283 8962 -16"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -8279,10 +8279,10 @@ world
 				"v" "8057 9490 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -8297,10 +8297,10 @@ world
 				"v" "8283 8962 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -8315,10 +8315,10 @@ world
 				"v" "8224 8937 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -8333,10 +8333,10 @@ world
 				"v" "8119 9502 1648"
 			}
 			"material" "CONCRETE/CONCRETEWALL003"
-			"uaxis" "[-0 -1 0 320] 0.25"
+			"uaxis" "[0 -1 0 320] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -8351,10 +8351,10 @@ world
 				"v" "8224 8937 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -8380,10 +8380,10 @@ world
 				"v" "8549 8464 -16"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -8398,10 +8398,10 @@ world
 				"v" "8224 8937 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -8416,10 +8416,10 @@ world
 				"v" "8549 8464 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -8434,10 +8434,10 @@ world
 				"v" "8496 8428 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -8452,10 +8452,10 @@ world
 				"v" "8283 8962 1648"
 			}
 			"material" "CONCRETE/CONCRETEWALL003D"
-			"uaxis" "[-0 -1 0 320] 0.25"
+			"uaxis" "[0 -1 0 320] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -8470,10 +8470,10 @@ world
 				"v" "8496 8428 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -8499,10 +8499,10 @@ world
 				"v" "8496 8428 -16"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -8517,10 +8517,10 @@ world
 				"v" "8496 8428 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -8535,10 +8535,10 @@ world
 				"v" "8908 8028 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -8553,10 +8553,10 @@ world
 				"v" "8862 7982 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -8571,10 +8571,10 @@ world
 				"v" "8549 8464 1648"
 			}
 			"material" "CONCRETE/CONCRETEWALL003"
-			"uaxis" "[-0 -1 0 320] 0.25"
+			"uaxis" "[0 -1 0 320] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -8589,10 +8589,10 @@ world
 				"v" "8862 7982 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -8618,10 +8618,10 @@ world
 				"v" "8862 7982 -16"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -8636,10 +8636,10 @@ world
 				"v" "8862 7982 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -8654,10 +8654,10 @@ world
 				"v" "9344 7669 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -8672,10 +8672,10 @@ world
 				"v" "9308 7616 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -8690,10 +8690,10 @@ world
 				"v" "8908 8028 1648"
 			}
 			"material" "CONCRETE/CONCRETEWALL003D"
-			"uaxis" "[1 -0 0 -767.996] 0.25"
+			"uaxis" "[1 0 0 -767.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -8708,10 +8708,10 @@ world
 				"v" "9308 7616 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -8737,10 +8737,10 @@ world
 				"v" "9308 7616 -16"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -8755,10 +8755,10 @@ world
 				"v" "9308 7616 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -8773,10 +8773,10 @@ world
 				"v" "9842 7403 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -8791,10 +8791,10 @@ world
 				"v" "9817 7344 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -8809,10 +8809,10 @@ world
 				"v" "9344 7669 1648"
 			}
 			"material" "CONCRETE/CONCRETEWALL003"
-			"uaxis" "[1 -0 0 -767.996] 0.25"
+			"uaxis" "[1 0 0 -767.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -8827,10 +8827,10 @@ world
 				"v" "9817 7344 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -8856,10 +8856,10 @@ world
 				"v" "9817 7344 -16"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -8874,10 +8874,10 @@ world
 				"v" "9817 7344 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -8892,10 +8892,10 @@ world
 				"v" "10382 7239 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -8910,10 +8910,10 @@ world
 				"v" "10370 7177 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -8928,10 +8928,10 @@ world
 				"v" "9842 7403 1648"
 			}
 			"material" "CONCRETE/CONCRETEWALL003D"
-			"uaxis" "[1 -0 0 -767.996] 0.25"
+			"uaxis" "[1 0 0 -767.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -8946,10 +8946,10 @@ world
 				"v" "10370 7177 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -8975,10 +8975,10 @@ world
 				"v" "10370 7177 -16"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -8993,10 +8993,10 @@ world
 				"v" "10370 7177 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -9011,10 +9011,10 @@ world
 				"v" "10944 7184 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -9029,10 +9029,10 @@ world
 				"v" "10944 7120 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -9047,10 +9047,10 @@ world
 				"v" "10382 7239 1648"
 			}
 			"material" "CONCRETE/CONCRETEWALL003"
-			"uaxis" "[1 -0 0 -767.996] 0.25"
+			"uaxis" "[1 0 0 -767.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -9065,10 +9065,10 @@ world
 				"v" "10944 7120 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -9094,10 +9094,10 @@ world
 				"v" "8119 9502 -16"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -9112,10 +9112,10 @@ world
 				"v" "8064 10064 496"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -9130,10 +9130,10 @@ world
 				"v" "8057 9490 496"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -9148,10 +9148,10 @@ world
 				"v" "8000 10064 496"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -9166,10 +9166,10 @@ world
 				"v" "8119 9502 496"
 			}
 			"material" "CONCRETE/CONCRETEWALL003D"
-			"uaxis" "[-0 -1 0 320] 0.25"
+			"uaxis" "[0 -1 0 320] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -9184,10 +9184,10 @@ world
 				"v" "8057 9490 496"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -9213,10 +9213,10 @@ world
 				"v" "8064 10064 -16"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -9231,10 +9231,10 @@ world
 				"v" "8119 10626 496"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -9249,10 +9249,10 @@ world
 				"v" "8000 10064 496"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -9267,10 +9267,10 @@ world
 				"v" "8057 10638 496"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -9285,10 +9285,10 @@ world
 				"v" "8064 10064 496"
 			}
 			"material" "CONCRETE/CONCRETEWALL003"
-			"uaxis" "[-0 -1 0 320] 0.25"
+			"uaxis" "[0 -1 0 320] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -9303,10 +9303,10 @@ world
 				"v" "8000 10064 496"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -9332,10 +9332,10 @@ world
 				"v" "8119 10626 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -9350,10 +9350,10 @@ world
 				"v" "8000 10064 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -9368,10 +9368,10 @@ world
 				"v" "8057 10638 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -9386,10 +9386,10 @@ world
 				"v" "8064 10064 1648"
 			}
 			"material" "CONCRETE/CONCRETEWALL003"
-			"uaxis" "[-0 -1 0 320] 0.25"
+			"uaxis" "[0 -1 0 320] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -9404,10 +9404,10 @@ world
 				"v" "8000 10064 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -9422,10 +9422,10 @@ world
 				"v" "8064 10064 768"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -9451,10 +9451,10 @@ world
 				"v" "8064 10064 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -9469,10 +9469,10 @@ world
 				"v" "8057 9490 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -9487,10 +9487,10 @@ world
 				"v" "8000 10064 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -9505,10 +9505,10 @@ world
 				"v" "8119 9502 1648"
 			}
 			"material" "CONCRETE/CONCRETEWALL003D"
-			"uaxis" "[-0 -1 0 320] 0.25"
+			"uaxis" "[0 -1 0 320] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -9523,10 +9523,10 @@ world
 				"v" "8057 9490 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -9541,10 +9541,10 @@ world
 				"v" "8119 9502 768"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -9569,10 +9569,10 @@ world
 				"v" "11518 7177 1648"
 			}
 			"material" "CONCRETE/CONCRETEWALL003D"
-			"uaxis" "[-0 -1 0 320] 0.25"
+			"uaxis" "[0 -1 0 320] 0.25"
 			"vaxis" "[-1 0 0 767.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -9586,10 +9586,10 @@ world
 				"v" "11518 7177 1776"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -9604,10 +9604,10 @@ world
 				"v" "10944 7120 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -9622,10 +9622,10 @@ world
 				"v" "11518 7177 1776"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -9640,10 +9640,10 @@ world
 				"v" "10944 7120 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -9668,10 +9668,10 @@ world
 				"v" "11518 7177 1648"
 			}
 			"material" "CONCRETE/CONCRETEWALL003"
-			"uaxis" "[-0 -1 0 320] 0.25"
+			"uaxis" "[0 -1 0 320] 0.25"
 			"vaxis" "[-1 0 0 767.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -9685,10 +9685,10 @@ world
 				"v" "10944 10064 2544"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -9703,10 +9703,10 @@ world
 				"v" "11518 7177 1776"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -9721,10 +9721,10 @@ world
 				"v" "12071 7344 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -9739,10 +9739,10 @@ world
 				"v" "12071 7344 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -9767,10 +9767,10 @@ world
 				"v" "12071 7344 1648"
 			}
 			"material" "CONCRETE/CONCRETEWALL003D"
-			"uaxis" "[-0 -1 0 320] 0.25"
+			"uaxis" "[0 -1 0 320] 0.25"
 			"vaxis" "[-1 0 0 767.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -9784,10 +9784,10 @@ world
 				"v" "10944 10064 2544"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -9802,10 +9802,10 @@ world
 				"v" "12071 7344 1776"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -9820,10 +9820,10 @@ world
 				"v" "12580 7616 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -9838,10 +9838,10 @@ world
 				"v" "12580 7616 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -9866,10 +9866,10 @@ world
 				"v" "12580 7616 1648"
 			}
 			"material" "CONCRETE/CONCRETEWALL003"
-			"uaxis" "[-0 -1 0 320] 0.25"
+			"uaxis" "[0 -1 0 320] 0.25"
 			"vaxis" "[-1 0 0 767.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -9883,10 +9883,10 @@ world
 				"v" "10944 10064 2544"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -9901,10 +9901,10 @@ world
 				"v" "12580 7616 1776"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -9919,10 +9919,10 @@ world
 				"v" "13026 7982 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -9937,10 +9937,10 @@ world
 				"v" "13026 7982 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -9965,10 +9965,10 @@ world
 				"v" "13026 7982 1648"
 			}
 			"material" "CONCRETE/CONCRETEWALL003D"
-			"uaxis" "[-0 -1 0 320] 0.25"
+			"uaxis" "[0 -1 0 320] 0.25"
 			"vaxis" "[-1 0 0 767.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -9982,10 +9982,10 @@ world
 				"v" "10944 10064 2544"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -10000,10 +10000,10 @@ world
 				"v" "13026 7982 1776"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -10018,10 +10018,10 @@ world
 				"v" "13392 8428 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -10036,10 +10036,10 @@ world
 				"v" "13392 8428 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -10064,10 +10064,10 @@ world
 				"v" "13392 8428 1648"
 			}
 			"material" "CONCRETE/CONCRETEWALL003"
-			"uaxis" "[-0 -1 0 320] 0.25"
+			"uaxis" "[0 -1 0 320] 0.25"
 			"vaxis" "[-1 0 0 767.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -10081,10 +10081,10 @@ world
 				"v" "10944 10064 2544"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -10099,10 +10099,10 @@ world
 				"v" "13392 8428 1776"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -10117,10 +10117,10 @@ world
 				"v" "13664 8937 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -10135,10 +10135,10 @@ world
 				"v" "13664 8937 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -10163,10 +10163,10 @@ world
 				"v" "13664 8937 1648"
 			}
 			"material" "CONCRETE/CONCRETEWALL003D"
-			"uaxis" "[-0 -1 0 320] 0.25"
+			"uaxis" "[0 -1 0 320] 0.25"
 			"vaxis" "[-1 0 0 767.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -10180,10 +10180,10 @@ world
 				"v" "10944 10064 2544"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -10198,10 +10198,10 @@ world
 				"v" "13664 8937 1776"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -10216,10 +10216,10 @@ world
 				"v" "13831 9490 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -10234,10 +10234,10 @@ world
 				"v" "13831 9490 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -10262,10 +10262,10 @@ world
 				"v" "13831 9490 1648"
 			}
 			"material" "CONCRETE/CONCRETEWALL003"
-			"uaxis" "[-0 -1 0 320] 0.25"
+			"uaxis" "[0 -1 0 320] 0.25"
 			"vaxis" "[-1 0 0 767.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -10279,10 +10279,10 @@ world
 				"v" "10944 10064 2544"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -10297,10 +10297,10 @@ world
 				"v" "13831 9490 1776"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -10315,10 +10315,10 @@ world
 				"v" "13888 10064 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -10333,10 +10333,10 @@ world
 				"v" "13888 10064 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -10361,10 +10361,10 @@ world
 				"v" "13888 10064 1648"
 			}
 			"material" "CONCRETE/CONCRETEWALL003D"
-			"uaxis" "[-0 -1 0 320] 0.25"
+			"uaxis" "[0 -1 0 320] 0.25"
 			"vaxis" "[-1 0 0 767.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -10378,10 +10378,10 @@ world
 				"v" "10944 10064 2544"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -10396,10 +10396,10 @@ world
 				"v" "13888 10064 1776"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -10414,10 +10414,10 @@ world
 				"v" "13831 10638 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -10432,10 +10432,10 @@ world
 				"v" "13831 10638 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -10460,10 +10460,10 @@ world
 				"v" "13831 10638 1648"
 			}
 			"material" "CONCRETE/CONCRETEWALL003"
-			"uaxis" "[-0 -1 0 320] 0.25"
+			"uaxis" "[0 -1 0 320] 0.25"
 			"vaxis" "[-1 0 0 767.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -10477,10 +10477,10 @@ world
 				"v" "10944 10064 2544"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -10495,10 +10495,10 @@ world
 				"v" "13831 10638 1776"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -10513,10 +10513,10 @@ world
 				"v" "13664 11191 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -10531,10 +10531,10 @@ world
 				"v" "13664 11191 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -10559,10 +10559,10 @@ world
 				"v" "13664 11191 1648"
 			}
 			"material" "CONCRETE/CONCRETEWALL003D"
-			"uaxis" "[-0 -1 0 320] 0.25"
+			"uaxis" "[0 -1 0 320] 0.25"
 			"vaxis" "[-1 0 0 767.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -10576,10 +10576,10 @@ world
 				"v" "10944 10064 2544"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -10594,10 +10594,10 @@ world
 				"v" "13664 11191 1776"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -10612,10 +10612,10 @@ world
 				"v" "13392 11700 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -10630,10 +10630,10 @@ world
 				"v" "13392 11700 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -10658,10 +10658,10 @@ world
 				"v" "13392 11700 1648"
 			}
 			"material" "CONCRETE/CONCRETEWALL003"
-			"uaxis" "[-0 -1 0 320] 0.25"
+			"uaxis" "[0 -1 0 320] 0.25"
 			"vaxis" "[-1 0 0 767.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -10675,10 +10675,10 @@ world
 				"v" "10944 10064 2544"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -10693,10 +10693,10 @@ world
 				"v" "13392 11700 1776"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -10711,10 +10711,10 @@ world
 				"v" "13026 12146 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -10729,10 +10729,10 @@ world
 				"v" "13026 12146 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -10757,10 +10757,10 @@ world
 				"v" "13026 12146 1648"
 			}
 			"material" "CONCRETE/CONCRETEWALL003D"
-			"uaxis" "[-0 -1 0 320] 0.25"
+			"uaxis" "[0 -1 0 320] 0.25"
 			"vaxis" "[-1 0 0 767.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -10774,10 +10774,10 @@ world
 				"v" "10944 10064 2544"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -10792,10 +10792,10 @@ world
 				"v" "13026 12146 1776"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -10810,10 +10810,10 @@ world
 				"v" "12580 12512 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -10828,10 +10828,10 @@ world
 				"v" "12580 12512 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -10856,10 +10856,10 @@ world
 				"v" "12580 12512 1648"
 			}
 			"material" "CONCRETE/CONCRETEWALL003"
-			"uaxis" "[-0 -1 0 320] 0.25"
+			"uaxis" "[0 -1 0 320] 0.25"
 			"vaxis" "[-1 0 0 767.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -10873,10 +10873,10 @@ world
 				"v" "10944 10064 2544"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -10891,10 +10891,10 @@ world
 				"v" "12580 12512 1776"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -10909,10 +10909,10 @@ world
 				"v" "12071 12784 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -10927,10 +10927,10 @@ world
 				"v" "12071 12784 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -10955,10 +10955,10 @@ world
 				"v" "12071 12784 1648"
 			}
 			"material" "CONCRETE/CONCRETEWALL003D"
-			"uaxis" "[-0 -1 0 320] 0.25"
+			"uaxis" "[0 -1 0 320] 0.25"
 			"vaxis" "[-1 0 0 767.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -10972,10 +10972,10 @@ world
 				"v" "10944 10064 2544"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -10990,10 +10990,10 @@ world
 				"v" "12071 12784 1776"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -11008,10 +11008,10 @@ world
 				"v" "11518 12951 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -11026,10 +11026,10 @@ world
 				"v" "11518 12951 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -11054,10 +11054,10 @@ world
 				"v" "11518 12951 1648"
 			}
 			"material" "CONCRETE/CONCRETEWALL003"
-			"uaxis" "[-0 -1 0 320] 0.25"
+			"uaxis" "[0 -1 0 320] 0.25"
 			"vaxis" "[-1 0 0 767.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -11071,10 +11071,10 @@ world
 				"v" "10944 10064 2544"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -11089,10 +11089,10 @@ world
 				"v" "11518 12951 1776"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -11107,10 +11107,10 @@ world
 				"v" "10944 13008 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -11125,10 +11125,10 @@ world
 				"v" "10944 13008 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -11153,10 +11153,10 @@ world
 				"v" "10944 13008 1648"
 			}
 			"material" "CONCRETE/CONCRETEWALL003D"
-			"uaxis" "[-0 -1 0 320] 0.25"
+			"uaxis" "[0 -1 0 320] 0.25"
 			"vaxis" "[-1 0 0 767.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -11170,10 +11170,10 @@ world
 				"v" "10944 10064 2544"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -11188,10 +11188,10 @@ world
 				"v" "10944 13008 1776"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -11206,10 +11206,10 @@ world
 				"v" "10370 12951 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -11224,10 +11224,10 @@ world
 				"v" "10370 12951 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -11252,10 +11252,10 @@ world
 				"v" "10370 12951 1648"
 			}
 			"material" "CONCRETE/CONCRETEWALL003"
-			"uaxis" "[-0 -1 0 320] 0.25"
+			"uaxis" "[0 -1 0 320] 0.25"
 			"vaxis" "[-1 0 0 767.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -11269,10 +11269,10 @@ world
 				"v" "10944 10064 2544"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -11287,10 +11287,10 @@ world
 				"v" "10370 12951 1776"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -11305,10 +11305,10 @@ world
 				"v" "9817 12784 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -11323,10 +11323,10 @@ world
 				"v" "9817 12784 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -11351,10 +11351,10 @@ world
 				"v" "9817 12784 1648"
 			}
 			"material" "CONCRETE/CONCRETEWALL003D"
-			"uaxis" "[-0 -1 0 320] 0.25"
+			"uaxis" "[0 -1 0 320] 0.25"
 			"vaxis" "[-1 0 0 767.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -11368,10 +11368,10 @@ world
 				"v" "10944 10064 2544"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -11386,10 +11386,10 @@ world
 				"v" "9817 12784 1776"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -11404,10 +11404,10 @@ world
 				"v" "9308 12512 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -11422,10 +11422,10 @@ world
 				"v" "9308 12512 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -11450,10 +11450,10 @@ world
 				"v" "9308 12512 1648"
 			}
 			"material" "CONCRETE/CONCRETEWALL003"
-			"uaxis" "[-0 -1 0 320] 0.25"
+			"uaxis" "[0 -1 0 320] 0.25"
 			"vaxis" "[-1 0 0 767.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -11467,10 +11467,10 @@ world
 				"v" "10944 10064 2544"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -11485,10 +11485,10 @@ world
 				"v" "9308 12512 1776"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -11503,10 +11503,10 @@ world
 				"v" "8862 12146 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -11521,10 +11521,10 @@ world
 				"v" "8862 12146 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -11549,10 +11549,10 @@ world
 				"v" "8862 12146 1648"
 			}
 			"material" "CONCRETE/CONCRETEWALL003D"
-			"uaxis" "[-0 -1 0 320] 0.25"
+			"uaxis" "[0 -1 0 320] 0.25"
 			"vaxis" "[-1 0 0 767.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -11566,10 +11566,10 @@ world
 				"v" "10944 10064 2544"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -11584,10 +11584,10 @@ world
 				"v" "8862 12146 1776"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -11602,10 +11602,10 @@ world
 				"v" "8496 11700 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -11620,10 +11620,10 @@ world
 				"v" "8496 11700 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -11648,10 +11648,10 @@ world
 				"v" "8496 11700 1648"
 			}
 			"material" "CONCRETE/CONCRETEWALL003"
-			"uaxis" "[-0 -1 0 320] 0.25"
+			"uaxis" "[0 -1 0 320] 0.25"
 			"vaxis" "[-1 0 0 767.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -11665,10 +11665,10 @@ world
 				"v" "10944 10064 2544"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -11683,10 +11683,10 @@ world
 				"v" "8496 11700 1776"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -11701,10 +11701,10 @@ world
 				"v" "8224 11191 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -11719,10 +11719,10 @@ world
 				"v" "8224 11191 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -11747,10 +11747,10 @@ world
 				"v" "8224 11191 1648"
 			}
 			"material" "CONCRETE/CONCRETEWALL003D"
-			"uaxis" "[-0 -1 0 320] 0.25"
+			"uaxis" "[0 -1 0 320] 0.25"
 			"vaxis" "[-1 0 0 767.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -11764,10 +11764,10 @@ world
 				"v" "10944 10064 2544"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -11782,10 +11782,10 @@ world
 				"v" "8224 11191 1776"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -11800,10 +11800,10 @@ world
 				"v" "8057 10638 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -11818,10 +11818,10 @@ world
 				"v" "8057 10638 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -11846,10 +11846,10 @@ world
 				"v" "8057 10638 1648"
 			}
 			"material" "CONCRETE/CONCRETEWALL003"
-			"uaxis" "[-0 -1 0 320] 0.25"
+			"uaxis" "[0 -1 0 320] 0.25"
 			"vaxis" "[-1 0 0 767.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -11863,10 +11863,10 @@ world
 				"v" "10944 10064 2544"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -11881,10 +11881,10 @@ world
 				"v" "8057 10638 1776"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -11899,10 +11899,10 @@ world
 				"v" "8000 10064 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -11917,10 +11917,10 @@ world
 				"v" "8000 10064 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -11945,10 +11945,10 @@ world
 				"v" "8000 10064 1648"
 			}
 			"material" "CONCRETE/CONCRETEWALL003D"
-			"uaxis" "[-0 -1 0 320] 0.25"
+			"uaxis" "[0 -1 0 320] 0.25"
 			"vaxis" "[-1 0 0 767.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -11962,10 +11962,10 @@ world
 				"v" "10944 10064 2544"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -11980,10 +11980,10 @@ world
 				"v" "8000 10064 1776"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -11998,10 +11998,10 @@ world
 				"v" "8057 9490 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -12016,10 +12016,10 @@ world
 				"v" "8057 9490 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -12044,10 +12044,10 @@ world
 				"v" "8057 9490 1648"
 			}
 			"material" "CONCRETE/CONCRETEWALL003"
-			"uaxis" "[-0 -1 0 320] 0.25"
+			"uaxis" "[0 -1 0 320] 0.25"
 			"vaxis" "[-1 0 0 767.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -12061,10 +12061,10 @@ world
 				"v" "10944 10064 2544"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -12079,10 +12079,10 @@ world
 				"v" "8057 9490 1776"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -12097,10 +12097,10 @@ world
 				"v" "8224 8937 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -12115,10 +12115,10 @@ world
 				"v" "8224 8937 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -12143,10 +12143,10 @@ world
 				"v" "8224 8937 1648"
 			}
 			"material" "CONCRETE/CONCRETEWALL003D"
-			"uaxis" "[-0 -1 0 320] 0.25"
+			"uaxis" "[0 -1 0 320] 0.25"
 			"vaxis" "[-1 0 0 767.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -12160,10 +12160,10 @@ world
 				"v" "10944 10064 2544"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -12178,10 +12178,10 @@ world
 				"v" "8224 8937 1776"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -12196,10 +12196,10 @@ world
 				"v" "8496 8428 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -12214,10 +12214,10 @@ world
 				"v" "8496 8428 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -12242,10 +12242,10 @@ world
 				"v" "8496 8428 1648"
 			}
 			"material" "CONCRETE/CONCRETEWALL003"
-			"uaxis" "[-0 -1 0 320] 0.25"
+			"uaxis" "[0 -1 0 320] 0.25"
 			"vaxis" "[-1 0 0 767.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -12259,10 +12259,10 @@ world
 				"v" "10944 10064 2544"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -12277,10 +12277,10 @@ world
 				"v" "8496 8428 1776"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -12295,10 +12295,10 @@ world
 				"v" "8862 7982 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -12313,10 +12313,10 @@ world
 				"v" "8862 7982 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -12341,10 +12341,10 @@ world
 				"v" "8862 7982 1648"
 			}
 			"material" "CONCRETE/CONCRETEWALL003D"
-			"uaxis" "[-0 -1 0 320] 0.25"
+			"uaxis" "[0 -1 0 320] 0.25"
 			"vaxis" "[-1 0 0 767.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -12358,10 +12358,10 @@ world
 				"v" "10944 10064 2544"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -12376,10 +12376,10 @@ world
 				"v" "8862 7982 1776"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -12394,10 +12394,10 @@ world
 				"v" "9308 7616 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -12412,10 +12412,10 @@ world
 				"v" "9308 7616 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -12440,10 +12440,10 @@ world
 				"v" "9308 7616 1648"
 			}
 			"material" "CONCRETE/CONCRETEWALL003"
-			"uaxis" "[-0 -1 0 320] 0.25"
+			"uaxis" "[0 -1 0 320] 0.25"
 			"vaxis" "[-1 0 0 767.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -12457,10 +12457,10 @@ world
 				"v" "10944 10064 2544"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -12475,10 +12475,10 @@ world
 				"v" "9308 7616 1776"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -12493,10 +12493,10 @@ world
 				"v" "9817 7344 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -12511,10 +12511,10 @@ world
 				"v" "9817 7344 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -12539,10 +12539,10 @@ world
 				"v" "9817 7344 1648"
 			}
 			"material" "CONCRETE/CONCRETEWALL003D"
-			"uaxis" "[-0 -1 0 320] 0.25"
+			"uaxis" "[0 -1 0 320] 0.25"
 			"vaxis" "[-1 0 0 767.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -12556,10 +12556,10 @@ world
 				"v" "10944 10064 2544"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -12574,10 +12574,10 @@ world
 				"v" "9817 7344 1776"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -12592,10 +12592,10 @@ world
 				"v" "10370 7177 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -12610,10 +12610,10 @@ world
 				"v" "10370 7177 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -12638,10 +12638,10 @@ world
 				"v" "10944 7120 1648"
 			}
 			"material" "CONCRETE/CONCRETEWALL003"
-			"uaxis" "[-0 -1 0 320] 0.25"
+			"uaxis" "[0 -1 0 320] 0.25"
 			"vaxis" "[-1 0 0 767.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -12655,10 +12655,10 @@ world
 				"v" "10944 7120 1776"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -12673,10 +12673,10 @@ world
 				"v" "10370 7177 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -12691,10 +12691,10 @@ world
 				"v" "10944 7120 1776"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-0 -1 0 64] 0.25"
+			"uaxis" "[0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -12709,10 +12709,10 @@ world
 				"v" "10370 7177 1648"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"uaxis" "[1 0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -29139,7 +29139,7 @@ entity
 			"uaxis" "[-0 -1 0 112] 0.25"
 			"vaxis" "[-1 0 0 47.9965] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -29157,7 +29157,7 @@ entity
 			"uaxis" "[-0 -1 0 112] 0.25"
 			"vaxis" "[-1 0 0 47.9965] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -29175,7 +29175,7 @@ entity
 			"uaxis" "[1 -0 0 -111.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -29193,7 +29193,7 @@ entity
 			"uaxis" "[1 -0 0 -111.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -29211,7 +29211,7 @@ entity
 			"uaxis" "[-0 -1 0 112] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -29229,7 +29229,7 @@ entity
 			"uaxis" "[-0 -1 0 240] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -29257,7 +29257,7 @@ entity
 			"uaxis" "[-0 -1 0 48] 0.25"
 			"vaxis" "[-1 0 0 47.9965] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -29275,7 +29275,7 @@ entity
 			"uaxis" "[-0 -1 0 48] 0.25"
 			"vaxis" "[-1 0 0 47.9965] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -29293,7 +29293,7 @@ entity
 			"uaxis" "[1 -0 0 -111.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -29311,7 +29311,7 @@ entity
 			"uaxis" "[1 -0 0 -111.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -29329,7 +29329,7 @@ entity
 			"uaxis" "[-0 -1 0 48] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -29347,7 +29347,7 @@ entity
 			"uaxis" "[-0 -1 0 176] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -29375,7 +29375,7 @@ entity
 			"uaxis" "[0 1 0 -144] 0.25"
 			"vaxis" "[1 -0 0 -87.9965] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -29393,7 +29393,7 @@ entity
 			"uaxis" "[0 1 0 -80] 0.25"
 			"vaxis" "[1 -0 0 -423.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -29411,7 +29411,7 @@ entity
 			"uaxis" "[-1 0 0 127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -29429,7 +29429,7 @@ entity
 			"uaxis" "[-0.453991 0 0.891007 10.7521] 0.22"
 			"vaxis" "[-0.891007 0 -0.453991 194.489] 0.22"
 			"rotation" "63"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -29447,7 +29447,7 @@ entity
 			"uaxis" "[0 1 0 -224] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -29465,7 +29465,7 @@ entity
 			"uaxis" "[0 1 0 -224] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -29493,7 +29493,7 @@ entity
 			"uaxis" "[-0 -1 0 112] 0.25"
 			"vaxis" "[-1 0 0 423.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -29511,7 +29511,7 @@ entity
 			"uaxis" "[-0 -1 0 112] 0.25"
 			"vaxis" "[-1 0 0 423.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -29529,7 +29529,7 @@ entity
 			"uaxis" "[0.45399 -0 0.891006 -130.32] 0.22"
 			"vaxis" "[0.891006 -0 -0.45399 -260.476] 0.22"
 			"rotation" "63"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -29547,7 +29547,7 @@ entity
 			"uaxis" "[1 -0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -29565,7 +29565,7 @@ entity
 			"uaxis" "[-0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -29583,7 +29583,7 @@ entity
 			"uaxis" "[-0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -29611,7 +29611,7 @@ entity
 			"uaxis" "[-0 -1 0 176] 0.25"
 			"vaxis" "[-1 0 0 423.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -29629,7 +29629,7 @@ entity
 			"uaxis" "[-0 -1 0 176] 0.25"
 			"vaxis" "[-1 0 0 423.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -29647,7 +29647,7 @@ entity
 			"uaxis" "[0.45399 -0 0.891006 -130.32] 0.22"
 			"vaxis" "[0.891006 -0 -0.45399 -260.476] 0.22"
 			"rotation" "63"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -29665,7 +29665,7 @@ entity
 			"uaxis" "[1 -0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -29683,7 +29683,7 @@ entity
 			"uaxis" "[-0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -29701,7 +29701,7 @@ entity
 			"uaxis" "[-0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -29729,7 +29729,7 @@ entity
 			"uaxis" "[0 1 0 -208] 0.25"
 			"vaxis" "[1 -0 0 -87.9965] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -29747,7 +29747,7 @@ entity
 			"uaxis" "[0 1 0 -144] 0.25"
 			"vaxis" "[1 -0 0 -423.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -29765,7 +29765,7 @@ entity
 			"uaxis" "[-1 0 0 127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -29783,7 +29783,7 @@ entity
 			"uaxis" "[-0.453991 0 0.891007 10.7521] 0.22"
 			"vaxis" "[-0.891007 0 -0.453991 194.489] 0.22"
 			"rotation" "63"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -29801,7 +29801,7 @@ entity
 			"uaxis" "[0 1 0 -32] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -29819,7 +29819,7 @@ entity
 			"uaxis" "[0 1 0 -32] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -29847,7 +29847,7 @@ entity
 			"uaxis" "[0 1 0 -96] 0.25"
 			"vaxis" "[1 -0 0 -47.9965] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -29865,7 +29865,7 @@ entity
 			"uaxis" "[-1 0 0 111.996] 0.25"
 			"vaxis" "[0 1 0 -320] 0.25"
 			"rotation" "90"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -29883,7 +29883,7 @@ entity
 			"uaxis" "[0 0 1 -160] 0.25"
 			"vaxis" "[0 1 0 -320] 0.25"
 			"rotation" "90"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -29901,7 +29901,7 @@ entity
 			"uaxis" "[0 0 1 -32] 0.25"
 			"vaxis" "[0 1 0 -64] 0.25"
 			"rotation" "90"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -29919,7 +29919,7 @@ entity
 			"uaxis" "[-1 0 0 47.9965] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -29937,7 +29937,7 @@ entity
 			"uaxis" "[-1 0 0 47.9965] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -29965,7 +29965,7 @@ entity
 			"uaxis" "[0 1 0 -144] 0.25"
 			"vaxis" "[1 -0 0 -967.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -29983,7 +29983,7 @@ entity
 			"uaxis" "[0 1 0 -80] 0.25"
 			"vaxis" "[1 -0 0 -279.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -30001,7 +30001,7 @@ entity
 			"uaxis" "[-1 0 0 127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -30019,7 +30019,7 @@ entity
 			"uaxis" "[-0.453991 0 0.891007 127.342] 0.22"
 			"vaxis" "[-0.891007 0 -0.453991 -2.54236] 0.22"
 			"rotation" "63"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -30037,7 +30037,7 @@ entity
 			"uaxis" "[0 1 0 -224] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -30055,7 +30055,7 @@ entity
 			"uaxis" "[0 1 0 -224] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -30083,7 +30083,7 @@ entity
 			"uaxis" "[-0 -1 0 48] 0.25"
 			"vaxis" "[-1 0 0 31.9965] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -30101,7 +30101,7 @@ entity
 			"uaxis" "[-0 -1 0 48] 0.25"
 			"vaxis" "[-1 0 0 31.9965] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -30119,7 +30119,7 @@ entity
 			"uaxis" "[1 -0 0 -223.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -30137,7 +30137,7 @@ entity
 			"uaxis" "[1 -0 0 -95.9965] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -30155,7 +30155,7 @@ entity
 			"uaxis" "[-0 -1 0 176] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -30173,7 +30173,7 @@ entity
 			"uaxis" "[-0 -1 0 176] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -30201,7 +30201,7 @@ entity
 			"uaxis" "[-0 -1 0 112] 0.25"
 			"vaxis" "[-1 0 0 31.9965] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -30219,7 +30219,7 @@ entity
 			"uaxis" "[-0 -1 0 112] 0.25"
 			"vaxis" "[-1 0 0 31.9965] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -30237,7 +30237,7 @@ entity
 			"uaxis" "[1 -0 0 -223.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -30255,7 +30255,7 @@ entity
 			"uaxis" "[1 -0 0 -95.9965] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -30273,7 +30273,7 @@ entity
 			"uaxis" "[-0 -1 0 240] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -30291,7 +30291,7 @@ entity
 			"uaxis" "[-0 -1 0 240] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -30319,7 +30319,7 @@ entity
 			"uaxis" "[0 1 0 -208] 0.25"
 			"vaxis" "[1 -0 0 -967.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -30337,7 +30337,7 @@ entity
 			"uaxis" "[0 1 0 -144] 0.25"
 			"vaxis" "[1 -0 0 -279.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -30355,7 +30355,7 @@ entity
 			"uaxis" "[-1 0 0 127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -30373,7 +30373,7 @@ entity
 			"uaxis" "[-0.453991 0 0.891007 127.342] 0.22"
 			"vaxis" "[-0.891007 0 -0.453991 -2.54236] 0.22"
 			"rotation" "63"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -30391,7 +30391,7 @@ entity
 			"uaxis" "[0 1 0 -32] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -30409,7 +30409,7 @@ entity
 			"uaxis" "[0 1 0 -32] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -30437,7 +30437,7 @@ entity
 			"uaxis" "[-0 -1 0 176] 0.25"
 			"vaxis" "[-1 0 0 279.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -30455,7 +30455,7 @@ entity
 			"uaxis" "[-0 -1 0 176] 0.25"
 			"vaxis" "[-1 0 0 279.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -30473,7 +30473,7 @@ entity
 			"uaxis" "[0.45399 -0 0.891006 9.08761] 0.22"
 			"vaxis" "[0.891006 -0 -0.45399 -63.4448] 0.22"
 			"rotation" "63"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -30491,7 +30491,7 @@ entity
 			"uaxis" "[1 -0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -30509,7 +30509,7 @@ entity
 			"uaxis" "[-0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -30527,7 +30527,7 @@ entity
 			"uaxis" "[-0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -30555,7 +30555,7 @@ entity
 			"uaxis" "[-0 -1 0 112] 0.25"
 			"vaxis" "[-1 0 0 279.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -30573,7 +30573,7 @@ entity
 			"uaxis" "[-0 -1 0 112] 0.25"
 			"vaxis" "[-1 0 0 279.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -30591,7 +30591,7 @@ entity
 			"uaxis" "[0.45399 -0 0.891006 9.08761] 0.22"
 			"vaxis" "[0.891006 -0 -0.45399 -63.4448] 0.22"
 			"rotation" "63"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -30609,7 +30609,7 @@ entity
 			"uaxis" "[1 -0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -30627,7 +30627,7 @@ entity
 			"uaxis" "[-0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -30645,7 +30645,7 @@ entity
 			"uaxis" "[-0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -30673,7 +30673,7 @@ entity
 			"uaxis" "[-0 -1 0 48] 0.25"
 			"vaxis" "[-1 0 0 15.9965] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -30691,7 +30691,7 @@ entity
 			"uaxis" "[-0 -1 0 48] 0.25"
 			"vaxis" "[-1 0 0 15.9965] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -30709,7 +30709,7 @@ entity
 			"uaxis" "[1 -0 0 -79.9965] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -30727,7 +30727,7 @@ entity
 			"uaxis" "[1 -0 0 -79.9965] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -30745,7 +30745,7 @@ entity
 			"uaxis" "[-0 -1 0 176] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -30763,7 +30763,7 @@ entity
 			"uaxis" "[-0 -1 0 176] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -30791,7 +30791,7 @@ entity
 			"uaxis" "[0 1 0 -144] 0.25"
 			"vaxis" "[1 -0 0 -823.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -30809,7 +30809,7 @@ entity
 			"uaxis" "[0 1 0 -80] 0.25"
 			"vaxis" "[1 -0 0 -135.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -30827,7 +30827,7 @@ entity
 			"uaxis" "[-1 0 0 127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -30845,7 +30845,7 @@ entity
 			"uaxis" "[-0.453991 0 0.891007 243.933] 0.22"
 			"vaxis" "[-0.891007 0 -0.453991 824.426] 0.22"
 			"rotation" "63"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -30863,7 +30863,7 @@ entity
 			"uaxis" "[0 1 0 -224] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -30881,7 +30881,7 @@ entity
 			"uaxis" "[0 1 0 -224] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -30909,7 +30909,7 @@ entity
 			"uaxis" "[-0 -1 0 112] 0.25"
 			"vaxis" "[-1 0 0 135.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -30927,7 +30927,7 @@ entity
 			"uaxis" "[-0 -1 0 112] 0.25"
 			"vaxis" "[-1 0 0 135.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -30945,7 +30945,7 @@ entity
 			"uaxis" "[0.45399 -0 0.891006 -107.503] 0.22"
 			"vaxis" "[0.891006 -0 -0.45399 -890.41] 0.22"
 			"rotation" "63"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -30963,7 +30963,7 @@ entity
 			"uaxis" "[1 -0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -30981,7 +30981,7 @@ entity
 			"uaxis" "[-0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -30999,7 +30999,7 @@ entity
 			"uaxis" "[-0 -1 0 0] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -31027,7 +31027,7 @@ entity
 			"uaxis" "[-0 -1 0 112] 0.25"
 			"vaxis" "[-1 0 0 15.9965] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -31045,7 +31045,7 @@ entity
 			"uaxis" "[-0 -1 0 112] 0.25"
 			"vaxis" "[-1 0 0 15.9965] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -31063,7 +31063,7 @@ entity
 			"uaxis" "[1 -0 0 -79.9965] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -31081,7 +31081,7 @@ entity
 			"uaxis" "[1 -0 0 -79.9965] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -31099,7 +31099,7 @@ entity
 			"uaxis" "[-0 -1 0 240] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -31117,7 +31117,7 @@ entity
 			"uaxis" "[-0 -1 0 240] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -31145,7 +31145,7 @@ entity
 			"uaxis" "[0 1 0 -208] 0.25"
 			"vaxis" "[1 -0 0 -823.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -31163,7 +31163,7 @@ entity
 			"uaxis" "[0 1 0 -144] 0.25"
 			"vaxis" "[1 -0 0 -135.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -31181,7 +31181,7 @@ entity
 			"uaxis" "[-1 0 0 127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -31199,7 +31199,7 @@ entity
 			"uaxis" "[-0.453991 0 0.891007 243.933] 0.22"
 			"vaxis" "[-0.891007 0 -0.453991 824.426] 0.22"
 			"rotation" "63"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -31217,7 +31217,7 @@ entity
 			"uaxis" "[0 1 0 -32] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -31235,7 +31235,7 @@ entity
 			"uaxis" "[0 1 0 -32] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -31263,7 +31263,7 @@ entity
 			"uaxis" "[-0 -1 0 176] 0.25"
 			"vaxis" "[-1 0 0 135.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -31281,7 +31281,7 @@ entity
 			"uaxis" "[-0 -1 0 176] 0.25"
 			"vaxis" "[-1 0 0 135.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -31299,7 +31299,7 @@ entity
 			"uaxis" "[0.45399 -0 0.891006 -107.503] 0.22"
 			"vaxis" "[0.891006 -0 -0.45399 -890.41] 0.22"
 			"rotation" "63"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -31317,7 +31317,7 @@ entity
 			"uaxis" "[1 -0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -31335,7 +31335,7 @@ entity
 			"uaxis" "[-0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -31353,7 +31353,7 @@ entity
 			"uaxis" "[-0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -31381,7 +31381,7 @@ entity
 			"uaxis" "[-0 -1 0 48] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -31399,7 +31399,7 @@ entity
 			"uaxis" "[-0 -1 0 48] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -31417,7 +31417,7 @@ entity
 			"uaxis" "[1 -0 0 -191.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -31435,7 +31435,7 @@ entity
 			"uaxis" "[1 -0 0 -63.9965] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -31453,7 +31453,7 @@ entity
 			"uaxis" "[-0 -1 0 176] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -31471,7 +31471,7 @@ entity
 			"uaxis" "[-0 -1 0 176] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -31499,7 +31499,7 @@ entity
 			"uaxis" "[-0 -1 0 112] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -31517,7 +31517,7 @@ entity
 			"uaxis" "[-0 -1 0 112] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -31535,7 +31535,7 @@ entity
 			"uaxis" "[1 -0 0 -191.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -31553,7 +31553,7 @@ entity
 			"uaxis" "[1 -0 0 -63.9965] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -31571,7 +31571,7 @@ entity
 			"uaxis" "[-0 -1 0 240] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -31589,7 +31589,7 @@ entity
 			"uaxis" "[-0 -1 0 240] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -31617,7 +31617,7 @@ entity
 			"uaxis" "[-0 -1 0 64] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -31635,7 +31635,7 @@ entity
 			"uaxis" "[1 -0 0 -223.996] 0.25"
 			"vaxis" "[-0 -1 0 320] 0.25"
 			"rotation" "90"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -31653,7 +31653,7 @@ entity
 			"uaxis" "[0 0 1 -160] 0.25"
 			"vaxis" "[-0 -1 0 320] 0.25"
 			"rotation" "90"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -31671,7 +31671,7 @@ entity
 			"uaxis" "[0 0 1 -160] 0.25"
 			"vaxis" "[-0 -1 0 320] 0.25"
 			"rotation" "90"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -31689,7 +31689,7 @@ entity
 			"uaxis" "[1 -0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -31707,7 +31707,7 @@ entity
 			"uaxis" "[1 -0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -31735,7 +31735,7 @@ entity
 			"uaxis" "[-0 -1 0 48] 0.25"
 			"vaxis" "[-1 0 0 127.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -31753,7 +31753,7 @@ entity
 			"uaxis" "[-0 -1 0 240] 0.25"
 			"vaxis" "[-1 0 0 767.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -31771,7 +31771,7 @@ entity
 			"uaxis" "[0 0 1 -160] 0.25"
 			"vaxis" "[1 -0 0 -767.996] 0.25"
 			"rotation" "90"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -31789,7 +31789,7 @@ entity
 			"uaxis" "[1 -0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -31807,7 +31807,7 @@ entity
 			"uaxis" "[1 -0 0 -127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -31825,7 +31825,7 @@ entity
 			"uaxis" "[-0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -31853,7 +31853,7 @@ entity
 			"uaxis" "[0 1 0 -112] 0.25"
 			"vaxis" "[1 -0 0 -63.9965] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -31871,7 +31871,7 @@ entity
 			"uaxis" "[0 1 0 -176] 0.25"
 			"vaxis" "[1 -0 0 -767.996] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -31889,7 +31889,7 @@ entity
 			"uaxis" "[-1 0 0 127.996] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -31907,7 +31907,7 @@ entity
 			"uaxis" "[0 0 1 -160] 0.25"
 			"vaxis" "[-1 0 0 767.996] 0.25"
 			"rotation" "90"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -31925,7 +31925,7 @@ entity
 			"uaxis" "[-1 0 0 63.9965] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -31943,7 +31943,7 @@ entity
 			"uaxis" "[-0 -1 0 64] 0.25"
 			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -35090,265 +35090,6 @@ entity
 }
 entity
 {
-	"id" "1685"
-	"classname" "trigger_multiple"
-	"origin" "11184 9552 372"
-	"spawnflags" "1"
-	"StartDisabled" "1"
-	"targetname" "sg_endgame_player_counter_zone"
-	"wait" "1"
-	connections
-	{
-		"OnEndTouchAll" "sg_DEBUG_endgame_hudhintHideHudHint2-1"
-		"OnEndTouchAll" "sg_DEBUG_endgame_hudhintShowHudHint0-1"
-		"OnEndTouchAll" "sg_endgame_relayTrigger0-1"
-	}
-	solid
-	{
-		"id" "1647"
-		side
-		{
-			"id" "1250"
-			"plane" "(13356 10320 736) (13356 9808 736) (9088 9808 736)"
-			vertices_plus
-			{
-				"v" "13356 10320 736"
-				"v" "13356 9808 736"
-				"v" "9088 9808 736"
-				"v" "9088 10320 736"
-			}
-			"material" "TOOLS/TOOLSTRIGGER"
-			"uaxis" "[-0 -1 0 64] 0.25"
-			"vaxis" "[-1 0 0 47.9965] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "1249"
-			"plane" "(9088 10320 8) (9088 9808 8) (13356 9808 8)"
-			vertices_plus
-			{
-				"v" "9088 10320 8"
-				"v" "9088 9808 8"
-				"v" "13356 9808 8"
-				"v" "13356 10320 8"
-			}
-			"material" "TOOLS/TOOLSTRIGGER"
-			"uaxis" "[-0 -1 0 64] 0.25"
-			"vaxis" "[-1 0 0 47.9965] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "1248"
-			"plane" "(13356 10320 736) (9088 10320 736) (9088 10320 8)"
-			vertices_plus
-			{
-				"v" "13356 10320 736"
-				"v" "9088 10320 736"
-				"v" "9088 10320 8"
-				"v" "13356 10320 8"
-			}
-			"material" "TOOLS/TOOLSTRIGGER"
-			"uaxis" "[1 -0 0 -47.9965] 0.25"
-			"vaxis" "[0 0 -1 -64] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "1247"
-			"plane" "(13356 9808 8) (9088 9808 8) (9088 9808 736)"
-			vertices_plus
-			{
-				"v" "13356 9808 8"
-				"v" "9088 9808 8"
-				"v" "9088 9808 736"
-				"v" "13356 9808 736"
-			}
-			"material" "TOOLS/TOOLSTRIGGER"
-			"uaxis" "[1 -0 0 -47.9965] 0.25"
-			"vaxis" "[0 0 -1 -64] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "1246"
-			"plane" "(13356 9808 736) (13356 10320 736) (13356 10320 8)"
-			vertices_plus
-			{
-				"v" "13356 9808 736"
-				"v" "13356 10320 736"
-				"v" "13356 10320 8"
-				"v" "13356 9808 8"
-			}
-			"material" "TOOLS/TOOLSTRIGGER"
-			"uaxis" "[-0 -1 0 64] 0.25"
-			"vaxis" "[0 0 -1 -64] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "1245"
-			"plane" "(9088 9808 8) (9088 10320 8) (9088 10320 736)"
-			vertices_plus
-			{
-				"v" "9088 9808 8"
-				"v" "9088 10320 8"
-				"v" "9088 10320 736"
-				"v" "9088 9808 736"
-			}
-			"material" "TOOLS/TOOLSTRIGGER"
-			"uaxis" "[-0 -1 0 64] 0.25"
-			"vaxis" "[0 0 -1 -64] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		editor
-		{
-			"color" "220 30 220"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	solid
-	{
-		"id" "10169"
-		side
-		{
-			"id" "13355"
-			"plane" "(9088 10576 736) (9088 9552 736) (8596 9552 736)"
-			vertices_plus
-			{
-				"v" "9088 10576 736"
-				"v" "9088 9552 736"
-				"v" "8596 9552 736"
-				"v" "8596 10576 736"
-			}
-			"material" "TOOLS/TOOLSTRIGGER"
-			"uaxis" "[-0 -1 0 64] 0.25"
-			"vaxis" "[-1 0 0 127.996] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "13356"
-			"plane" "(8596 10576 528) (8596 9552 528) (9088 9552 528)"
-			vertices_plus
-			{
-				"v" "8596 10576 528"
-				"v" "8596 9552 528"
-				"v" "9088 9552 528"
-				"v" "9088 10576 528"
-			}
-			"material" "TOOLS/TOOLSTRIGGER"
-			"uaxis" "[-0 -1 0 64] 0.25"
-			"vaxis" "[-1 0 0 127.996] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "13357"
-			"plane" "(9088 10576 736) (8596 10576 736) (8596 10576 528)"
-			vertices_plus
-			{
-				"v" "9088 10576 736"
-				"v" "8596 10576 736"
-				"v" "8596 10576 528"
-				"v" "9088 10576 528"
-			}
-			"material" "TOOLS/TOOLSTRIGGER"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
-			"vaxis" "[0 0 -1 -64] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "13358"
-			"plane" "(9088 9552 528) (8596 9552 528) (8596 9552 736)"
-			vertices_plus
-			{
-				"v" "9088 9552 528"
-				"v" "8596 9552 528"
-				"v" "8596 9552 736"
-				"v" "9088 9552 736"
-			}
-			"material" "TOOLS/TOOLSTRIGGER"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
-			"vaxis" "[0 0 -1 -64] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "13359"
-			"plane" "(9088 9552 736) (9088 10576 736) (9088 10576 528)"
-			vertices_plus
-			{
-				"v" "9088 9552 736"
-				"v" "9088 10576 736"
-				"v" "9088 10576 528"
-				"v" "9088 9552 528"
-			}
-			"material" "TOOLS/TOOLSTRIGGER"
-			"uaxis" "[-0 -1 0 64] 0.25"
-			"vaxis" "[0 0 -1 -64] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "13360"
-			"plane" "(8596 9552 528) (8596 10576 528) (8596 10576 736)"
-			vertices_plus
-			{
-				"v" "8596 9552 528"
-				"v" "8596 10576 528"
-				"v" "8596 10576 736"
-				"v" "8596 9552 736"
-			}
-			"material" "TOOLS/TOOLSTRIGGER"
-			"uaxis" "[-0 -1 0 64] 0.25"
-			"vaxis" "[0 0 -1 -64] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		editor
-		{
-			"color" "220 30 220"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	editor
-	{
-		"color" "220 30 220"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[500 12500]"
-	}
-}
-entity
-{
 	"id" "1594"
 	"classname" "light"
 	"_light" "255 255 255 800"
@@ -35722,145 +35463,6 @@ entity
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 -14768]"
-	}
-}
-entity
-{
-	"id" "936"
-	"classname" "trigger_multiple"
-	"origin" "8840 10064 648"
-	"spawnflags" "1"
-	"StartDisabled" "1"
-	"targetname" "sg_player_counter_zone"
-	"wait" "1"
-	connections
-	{
-		"OnStartTouch" "sg_player_counterAdd10-1"
-	}
-	solid
-	{
-		"id" "934"
-		side
-		{
-			"id" "584"
-			"plane" "(9084 10568 768) (9084 9560 768) (8596 9560 768)"
-			vertices_plus
-			{
-				"v" "9084 10568 768"
-				"v" "9084 9560 768"
-				"v" "8596 9560 768"
-				"v" "8596 10568 768"
-			}
-			"material" "TOOLS/TOOLSTRIGGER"
-			"uaxis" "[-0 -1 0 64] 0.25"
-			"vaxis" "[-1 0 0 127.996] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "583"
-			"plane" "(8596 10568 528) (8596 9560 528) (9084 9560 528)"
-			vertices_plus
-			{
-				"v" "8596 10568 528"
-				"v" "8596 9560 528"
-				"v" "9084 9560 528"
-				"v" "9084 10568 528"
-			}
-			"material" "TOOLS/TOOLSTRIGGER"
-			"uaxis" "[-0 -1 0 64] 0.25"
-			"vaxis" "[-1 0 0 127.996] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "582"
-			"plane" "(9084 10568 768) (8596 10568 768) (8596 10568 528)"
-			vertices_plus
-			{
-				"v" "9084 10568 768"
-				"v" "8596 10568 768"
-				"v" "8596 10568 528"
-				"v" "9084 10568 528"
-			}
-			"material" "TOOLS/TOOLSTRIGGER"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
-			"vaxis" "[0 0 -1 -64] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "581"
-			"plane" "(9084 9560 528) (8596 9560 528) (8596 9560 768)"
-			vertices_plus
-			{
-				"v" "9084 9560 528"
-				"v" "8596 9560 528"
-				"v" "8596 9560 768"
-				"v" "9084 9560 768"
-			}
-			"material" "TOOLS/TOOLSTRIGGER"
-			"uaxis" "[1 -0 0 -127.996] 0.25"
-			"vaxis" "[0 0 -1 -64] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "580"
-			"plane" "(9084 9560 768) (9084 10568 768) (9084 10568 528)"
-			vertices_plus
-			{
-				"v" "9084 9560 768"
-				"v" "9084 10568 768"
-				"v" "9084 10568 528"
-				"v" "9084 9560 528"
-			}
-			"material" "TOOLS/TOOLSTRIGGER"
-			"uaxis" "[-0 -1 0 64] 0.25"
-			"vaxis" "[0 0 -1 -64] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "579"
-			"plane" "(8596 9560 528) (8596 10568 528) (8596 10568 768)"
-			vertices_plus
-			{
-				"v" "8596 9560 528"
-				"v" "8596 10568 528"
-				"v" "8596 10568 768"
-				"v" "8596 9560 768"
-			}
-			"material" "TOOLS/TOOLSTRIGGER"
-			"uaxis" "[-0 -1 0 64] 0.25"
-			"vaxis" "[0 0 -1 -64] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		editor
-		{
-			"color" "220 30 220"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	editor
-	{
-		"color" "220 30 220"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 -15268]"
 	}
 }
 entity
@@ -40250,9 +39852,9 @@ entity
 				"v" "8576 9040 496"
 				"v" "8192 9488 496"
 			}
-			"material" "CONCRETE/CONCRETEWALL017A"
-			"uaxis" "[-0 -1 0 832] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[0 -1 0 64] 0.25"
+			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -40332,9 +39934,9 @@ entity
 				"v" "8576 9040 528"
 				"v" "8992 8888 624"
 			}
-			"material" "CONCRETE/CONCRETEWALL017A"
-			"uaxis" "[1 -0 0 -255.996] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 64] 0.25"
+			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -40450,9 +40052,9 @@ entity
 				"v" "9072 8888 848"
 				"v" "9072 8888 816"
 			}
-			"material" "CONCRETE/CONCRETEWALL017A"
-			"uaxis" "[1 -0 0 -255.996] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 64] 0.25"
+			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -40568,9 +40170,9 @@ entity
 				"v" "8576 9040 752"
 				"v" "8992 8888 848"
 			}
-			"material" "CONCRETE/CONCRETEWALL017A"
-			"uaxis" "[1 -0 0 -255.996] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 64] 0.25"
+			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -40958,9 +40560,9 @@ entity
 				"v" "8576 9040 720"
 				"v" "8192 9488 720"
 			}
-			"material" "CONCRETE/CONCRETEWALL017A"
-			"uaxis" "[-0 -1 0 832] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[0 -1 0 64] 0.25"
+			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -41158,9 +40760,9 @@ entity
 				"v" "8992 8880 816"
 				"v" "9072 8880 816"
 			}
-			"material" "CONCRETE/CONCRETEWALL017A"
-			"uaxis" "[1 -0 0 -255.996] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 64] 0.25"
+			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -41276,9 +40878,9 @@ entity
 				"v" "8576 9032 528"
 				"v" "8576 9032 720"
 			}
-			"material" "CONCRETE/CONCRETEWALL017A"
-			"uaxis" "[1 -0 0 -255.996] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[1 0 0 64] 0.25"
+			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -41430,9 +41032,9 @@ entity
 				"v" "8576 9032 720"
 				"v" "8576 9032 528"
 			}
-			"material" "CONCRETE/CONCRETEWALL017A"
-			"uaxis" "[-0 -1 0 832] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
+			"material" "TOOLS/TOOLSNODRAW"
+			"uaxis" "[0 -1 0 64] 0.25"
+			"vaxis" "[0 0 -1 -64] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -43231,141 +42833,6 @@ entity
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[0 4000]"
-	}
-}
-entity
-{
-	"id" "25728"
-	"classname" "trigger_add_tf_player_condition"
-	"condition" "41"
-	"duration" "-1"
-	"origin" "10988 10064 648"
-	"spawnflags" "1"
-	"StartDisabled" "0"
-	solid
-	{
-		"id" "25723"
-		side
-		{
-			"id" "18461"
-			"plane" "(13376 10568 768) (13376 9560 768) (8600 9560 768)"
-			vertices_plus
-			{
-				"v" "13376 10568 768"
-				"v" "13376 9560 768"
-				"v" "8600 9560 768"
-				"v" "8600 10568 768"
-			}
-			"material" "TOOLS/TOOLSTRIGGER"
-			"uaxis" "[-0 -1 0 96] 0.25"
-			"vaxis" "[-1 0 0 79.9965] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "18460"
-			"plane" "(8600 10568 528) (8600 9560 528) (13376 9560 528)"
-			vertices_plus
-			{
-				"v" "8600 10568 528"
-				"v" "8600 9560 528"
-				"v" "13376 9560 528"
-				"v" "13376 10568 528"
-			}
-			"material" "TOOLS/TOOLSTRIGGER"
-			"uaxis" "[-0 -1 0 96] 0.25"
-			"vaxis" "[-1 0 0 79.9965] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "18459"
-			"plane" "(13376 10568 768) (8600 10568 768) (8600 10568 528)"
-			vertices_plus
-			{
-				"v" "13376 10568 768"
-				"v" "8600 10568 768"
-				"v" "8600 10568 528"
-				"v" "13376 10568 528"
-			}
-			"material" "TOOLS/TOOLSTRIGGER"
-			"uaxis" "[1 -0 0 -79.9965] 0.25"
-			"vaxis" "[0 0 -1 -64] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "18458"
-			"plane" "(13376 9560 528) (8600 9560 528) (8600 9560 768)"
-			vertices_plus
-			{
-				"v" "13376 9560 528"
-				"v" "8600 9560 528"
-				"v" "8600 9560 768"
-				"v" "13376 9560 768"
-			}
-			"material" "TOOLS/TOOLSTRIGGER"
-			"uaxis" "[1 -0 0 -79.9965] 0.25"
-			"vaxis" "[0 0 -1 -64] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "18457"
-			"plane" "(13376 9560 768) (13376 10568 768) (13376 10568 528)"
-			vertices_plus
-			{
-				"v" "13376 9560 768"
-				"v" "13376 10568 768"
-				"v" "13376 10568 528"
-				"v" "13376 9560 528"
-			}
-			"material" "TOOLS/TOOLSTRIGGER"
-			"uaxis" "[-0 -1 0 96] 0.25"
-			"vaxis" "[0 0 -1 -64] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "18456"
-			"plane" "(8600 9560 528) (8600 10568 528) (8600 10568 768)"
-			vertices_plus
-			{
-				"v" "8600 9560 528"
-				"v" "8600 10568 528"
-				"v" "8600 10568 768"
-				"v" "8600 9560 768"
-			}
-			"material" "TOOLS/TOOLSTRIGGER"
-			"uaxis" "[-0 -1 0 96] 0.25"
-			"vaxis" "[0 0 -1 -64] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		editor
-		{
-			"color" "220 30 220"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	editor
-	{
-		"color" "220 30 220"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 16000]"
 	}
 }
 entity
@@ -47336,13 +46803,546 @@ entity
 		"logicalpos" "[0 4000]"
 	}
 }
+entity
+{
+	"id" "25728"
+	"classname" "trigger_add_tf_player_condition"
+	"condition" "41"
+	"duration" "-1"
+	"origin" "10988 10064 648"
+	"spawnflags" "1"
+	"StartDisabled" "0"
+	solid
+	{
+		"id" "25723"
+		side
+		{
+			"id" "19145"
+			"plane" "(13376 10568 768) (13376 9560 768) (8600 9560 768)"
+			vertices_plus
+			{
+				"v" "13376 10568 768"
+				"v" "13376 9560 768"
+				"v" "8600 9560 768"
+				"v" "8600 10568 768"
+			}
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[-0 -1 0 96] 0.25"
+			"vaxis" "[-1 0 0 79.9965] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "19144"
+			"plane" "(8600 10568 528) (8600 9560 528) (13376 9560 528)"
+			vertices_plus
+			{
+				"v" "8600 10568 528"
+				"v" "8600 9560 528"
+				"v" "13376 9560 528"
+				"v" "13376 10568 528"
+			}
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[-0 -1 0 96] 0.25"
+			"vaxis" "[-1 0 0 79.9965] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "19143"
+			"plane" "(13376 10568 768) (8600 10568 768) (8600 10568 528)"
+			vertices_plus
+			{
+				"v" "13376 10568 768"
+				"v" "8600 10568 768"
+				"v" "8600 10568 528"
+				"v" "13376 10568 528"
+			}
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[1 -0 0 -79.9965] 0.25"
+			"vaxis" "[0 0 -1 -64] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "19142"
+			"plane" "(13376 9560 528) (8600 9560 528) (8600 9560 768)"
+			vertices_plus
+			{
+				"v" "13376 9560 528"
+				"v" "8600 9560 528"
+				"v" "8600 9560 768"
+				"v" "13376 9560 768"
+			}
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[1 -0 0 -79.9965] 0.25"
+			"vaxis" "[0 0 -1 -64] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "19141"
+			"plane" "(13376 9560 768) (13376 10568 768) (13376 10568 528)"
+			vertices_plus
+			{
+				"v" "13376 9560 768"
+				"v" "13376 10568 768"
+				"v" "13376 10568 528"
+				"v" "13376 9560 528"
+			}
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[-0 -1 0 96] 0.25"
+			"vaxis" "[0 0 -1 -64] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "19140"
+			"plane" "(8600 9560 528) (8600 10568 528) (8600 10568 768)"
+			vertices_plus
+			{
+				"v" "8600 9560 528"
+				"v" "8600 10568 528"
+				"v" "8600 10568 768"
+				"v" "8600 9560 768"
+			}
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[-0 -1 0 96] 0.25"
+			"vaxis" "[0 0 -1 -64] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 16000]"
+	}
+}
+entity
+{
+	"id" "936"
+	"classname" "trigger_multiple"
+	"origin" "8840 10064 648"
+	"spawnflags" "1"
+	"StartDisabled" "1"
+	"targetname" "sg_player_counter_zone"
+	"wait" "1"
+	connections
+	{
+		"OnStartTouch" "sg_player_counterAdd10-1"
+	}
+	solid
+	{
+		"id" "934"
+		side
+		{
+			"id" "19151"
+			"plane" "(9084 10568 768) (9084 9560 768) (8596 9560 768)"
+			vertices_plus
+			{
+				"v" "9084 10568 768"
+				"v" "9084 9560 768"
+				"v" "8596 9560 768"
+				"v" "8596 10568 768"
+			}
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[-0 -1 0 64] 0.25"
+			"vaxis" "[-1 0 0 127.996] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "19150"
+			"plane" "(8596 10568 528) (8596 9560 528) (9084 9560 528)"
+			vertices_plus
+			{
+				"v" "8596 10568 528"
+				"v" "8596 9560 528"
+				"v" "9084 9560 528"
+				"v" "9084 10568 528"
+			}
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[-0 -1 0 64] 0.25"
+			"vaxis" "[-1 0 0 127.996] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "19149"
+			"plane" "(9084 10568 768) (8596 10568 768) (8596 10568 528)"
+			vertices_plus
+			{
+				"v" "9084 10568 768"
+				"v" "8596 10568 768"
+				"v" "8596 10568 528"
+				"v" "9084 10568 528"
+			}
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"vaxis" "[0 0 -1 -64] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "19148"
+			"plane" "(9084 9560 528) (8596 9560 528) (8596 9560 768)"
+			vertices_plus
+			{
+				"v" "9084 9560 528"
+				"v" "8596 9560 528"
+				"v" "8596 9560 768"
+				"v" "9084 9560 768"
+			}
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"vaxis" "[0 0 -1 -64] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "19147"
+			"plane" "(9084 9560 768) (9084 10568 768) (9084 10568 528)"
+			vertices_plus
+			{
+				"v" "9084 9560 768"
+				"v" "9084 10568 768"
+				"v" "9084 10568 528"
+				"v" "9084 9560 528"
+			}
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[-0 -1 0 64] 0.25"
+			"vaxis" "[0 0 -1 -64] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "19146"
+			"plane" "(8596 9560 528) (8596 10568 528) (8596 10568 768)"
+			vertices_plus
+			{
+				"v" "8596 9560 528"
+				"v" "8596 10568 528"
+				"v" "8596 10568 768"
+				"v" "8596 9560 768"
+			}
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[-0 -1 0 64] 0.25"
+			"vaxis" "[0 0 -1 -64] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 -15268]"
+	}
+}
+entity
+{
+	"id" "1685"
+	"classname" "trigger_multiple"
+	"origin" "11184 9552 372"
+	"spawnflags" "1"
+	"StartDisabled" "1"
+	"targetname" "sg_endgame_player_counter_zone"
+	"wait" "1"
+	connections
+	{
+		"OnEndTouchAll" "sg_DEBUG_endgame_hudhintHideHudHint2-1"
+		"OnEndTouchAll" "sg_DEBUG_endgame_hudhintShowHudHint0-1"
+		"OnEndTouchAll" "sg_endgame_relayTrigger0-1"
+	}
+	solid
+	{
+		"id" "1647"
+		side
+		{
+			"id" "1250"
+			"plane" "(13356 10320 736) (13356 9808 736) (9088 9808 736)"
+			vertices_plus
+			{
+				"v" "13356 10320 736"
+				"v" "13356 9808 736"
+				"v" "9088 9808 736"
+				"v" "9088 10320 736"
+			}
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[-0 -1 0 64] 0.25"
+			"vaxis" "[-1 0 0 47.9965] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "1249"
+			"plane" "(9088 10320 8) (9088 9808 8) (13356 9808 8)"
+			vertices_plus
+			{
+				"v" "9088 10320 8"
+				"v" "9088 9808 8"
+				"v" "13356 9808 8"
+				"v" "13356 10320 8"
+			}
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[-0 -1 0 64] 0.25"
+			"vaxis" "[-1 0 0 47.9965] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "1248"
+			"plane" "(13356 10320 736) (9088 10320 736) (9088 10320 8)"
+			vertices_plus
+			{
+				"v" "13356 10320 736"
+				"v" "9088 10320 736"
+				"v" "9088 10320 8"
+				"v" "13356 10320 8"
+			}
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[1 -0 0 -47.9965] 0.25"
+			"vaxis" "[0 0 -1 -64] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "1247"
+			"plane" "(13356 9808 8) (9088 9808 8) (9088 9808 736)"
+			vertices_plus
+			{
+				"v" "13356 9808 8"
+				"v" "9088 9808 8"
+				"v" "9088 9808 736"
+				"v" "13356 9808 736"
+			}
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[1 -0 0 -47.9965] 0.25"
+			"vaxis" "[0 0 -1 -64] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "1246"
+			"plane" "(13356 9808 736) (13356 10320 736) (13356 10320 8)"
+			vertices_plus
+			{
+				"v" "13356 9808 736"
+				"v" "13356 10320 736"
+				"v" "13356 10320 8"
+				"v" "13356 9808 8"
+			}
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[-0 -1 0 64] 0.25"
+			"vaxis" "[0 0 -1 -64] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "1245"
+			"plane" "(9088 9808 8) (9088 10320 8) (9088 10320 736)"
+			vertices_plus
+			{
+				"v" "9088 9808 8"
+				"v" "9088 10320 8"
+				"v" "9088 10320 736"
+				"v" "9088 9808 736"
+			}
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[-0 -1 0 64] 0.25"
+			"vaxis" "[0 0 -1 -64] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "10169"
+		side
+		{
+			"id" "13355"
+			"plane" "(9088 10576 736) (9088 9552 736) (8596 9552 736)"
+			vertices_plus
+			{
+				"v" "9088 10576 736"
+				"v" "9088 9552 736"
+				"v" "8596 9552 736"
+				"v" "8596 10576 736"
+			}
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[-0 -1 0 64] 0.25"
+			"vaxis" "[-1 0 0 127.996] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "13356"
+			"plane" "(8596 10576 528) (8596 9552 528) (9088 9552 528)"
+			vertices_plus
+			{
+				"v" "8596 10576 528"
+				"v" "8596 9552 528"
+				"v" "9088 9552 528"
+				"v" "9088 10576 528"
+			}
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[-0 -1 0 64] 0.25"
+			"vaxis" "[-1 0 0 127.996] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "13357"
+			"plane" "(9088 10576 736) (8596 10576 736) (8596 10576 528)"
+			vertices_plus
+			{
+				"v" "9088 10576 736"
+				"v" "8596 10576 736"
+				"v" "8596 10576 528"
+				"v" "9088 10576 528"
+			}
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"vaxis" "[0 0 -1 -64] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "13358"
+			"plane" "(9088 9552 528) (8596 9552 528) (8596 9552 736)"
+			vertices_plus
+			{
+				"v" "9088 9552 528"
+				"v" "8596 9552 528"
+				"v" "8596 9552 736"
+				"v" "9088 9552 736"
+			}
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[1 -0 0 -127.996] 0.25"
+			"vaxis" "[0 0 -1 -64] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "13359"
+			"plane" "(9088 9552 736) (9088 10576 736) (9088 10576 528)"
+			vertices_plus
+			{
+				"v" "9088 9552 736"
+				"v" "9088 10576 736"
+				"v" "9088 10576 528"
+				"v" "9088 9552 528"
+			}
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[-0 -1 0 64] 0.25"
+			"vaxis" "[0 0 -1 -64] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "13360"
+			"plane" "(8596 9552 528) (8596 10576 528) (8596 10576 736)"
+			vertices_plus
+			{
+				"v" "8596 9552 528"
+				"v" "8596 10576 528"
+				"v" "8596 10576 736"
+				"v" "8596 9552 736"
+			}
+			"material" "TOOLS/TOOLSTRIGGER"
+			"uaxis" "[-0 -1 0 64] 0.25"
+			"vaxis" "[0 0 -1 -64] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "220 30 220"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[500 12500]"
+	}
+}
 cameras
 {
 	"activecamera" "0"
 	camera
 	{
-		"position" "[6979.95 9214.25 638.926]"
-		"look" "[6978.94 9214.37 638.904]"
+		"position" "[4297.74 2937.37 915.416]"
+		"look" "[4297.03 2938.09 915.288]"
 	}
 }
 cordons

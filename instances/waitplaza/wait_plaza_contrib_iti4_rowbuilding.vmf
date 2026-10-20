@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8872"
-	"mapversion" "121"
+	"mapversion" "123"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -14,7 +14,7 @@ viewsettings
 	"bSnapToGrid" "1"
 	"bShowGrid" "1"
 	"bShowLogicalGrid" "0"
-	"nGridSpacing" "4"
+	"nGridSpacing" "16"
 }
 palette_plus
 {
@@ -89,7 +89,7 @@ bgimages_plus
 world
 {
 	"id" "1"
-	"mapversion" "121"
+	"mapversion" "123"
 	"classname" "worldspawn"
 	"chaptertitlenomessage" "1"
 	"detailmaterial" "detail/detailsprites_2fort"
@@ -11895,6 +11895,1186 @@ world
 			"visgroupautoshown" "1"
 		}
 	}
+	solid
+	{
+		"id" "168"
+		side
+		{
+			"id" "1673"
+			"plane" "(-480 -224 672) (-800 -224 672) (-800 288 672)"
+			vertices_plus
+			{
+				"v" "-480 -224 672"
+				"v" "-800 -224 672"
+				"v" "-800 288 672"
+				"v" "-480 288 672"
+			}
+			"material" "LONDON/TILE/LONDON_TILEROOF_001C"
+			"uaxis" "[1 0 0 128] 0.25"
+			"vaxis" "[0 -1 0 128] 0.25"
+			"rotation" "0"
+			"lightmapscale" "32"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "1672"
+			"plane" "(-480 368 512) (-880 368 512) (-880 -304 512)"
+			vertices_plus
+			{
+				"v" "-480 368 512"
+				"v" "-880 368 512"
+				"v" "-880 -304 512"
+				"v" "-480 -304 512"
+			}
+			"material" "LONDON/TILE/LONDON_TILEROOF_001C"
+			"uaxis" "[1 0 0 128] 0.25"
+			"vaxis" "[0 -1 0 128] 0.25"
+			"rotation" "0"
+			"lightmapscale" "32"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "1671"
+			"plane" "(-880 -304 512) (-880 368 512) (-800 288 672)"
+			vertices_plus
+			{
+				"v" "-880 -304 512"
+				"v" "-880 368 512"
+				"v" "-800 288 672"
+				"v" "-800 -224 672"
+			}
+			"material" "LONDON/TILE/LONDON_TILEROOF_001C"
+			"uaxis" "[0 1 0 -128] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "32"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "1670"
+			"plane" "(-880 368 512) (-480 368 512) (-480 288 672)"
+			vertices_plus
+			{
+				"v" "-880 368 512"
+				"v" "-480 368 512"
+				"v" "-480 288 672"
+				"v" "-800 288 672"
+			}
+			"material" "LONDON/TILE/LONDON_TILEROOF_001C"
+			"uaxis" "[1 0 0 128] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "32"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "1669"
+			"plane" "(-480 -304 512) (-880 -304 512) (-800 -224 672)"
+			vertices_plus
+			{
+				"v" "-480 -304 512"
+				"v" "-880 -304 512"
+				"v" "-800 -224 672"
+				"v" "-480 -224 672"
+			}
+			"material" "LONDON/TILE/LONDON_TILEROOF_001C"
+			"uaxis" "[1 0 0 128] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "32"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "1668"
+			"plane" "(-480 368 512) (-480 -304 512) (-480 -224 672)"
+			vertices_plus
+			{
+				"v" "-480 368 512"
+				"v" "-480 -304 512"
+				"v" "-480 -224 672"
+				"v" "-480 288 672"
+			}
+			"material" "LONDON/TILE/LONDON_TILEROOF_001C"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "32"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 149 210"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "217"
+		side
+		{
+			"id" "1667"
+			"plane" "(-224 -64 672) (-480 -64 672) (-480 288 672)"
+			vertices_plus
+			{
+				"v" "-224 -64 672"
+				"v" "-480 -64 672"
+				"v" "-480 288 672"
+				"v" "-224 288 672"
+			}
+			"material" "LONDON/TILE/LONDON_TILEROOF_001C"
+			"uaxis" "[1 0 0 -384] 0.25"
+			"vaxis" "[0 -1 0 384] 0.25"
+			"rotation" "0"
+			"lightmapscale" "32"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "1666"
+			"plane" "(-160 368 512) (-480 368 512) (-480 -144 512)"
+			vertices_plus
+			{
+				"v" "-160 368 512"
+				"v" "-480 368 512"
+				"v" "-480 -144 512"
+				"v" "-160 -144 512"
+			}
+			"material" "LONDON/TILE/LONDON_TILEROOF_001C"
+			"uaxis" "[1 0 0 -384] 0.25"
+			"vaxis" "[0 -1 0 384] 0.25"
+			"rotation" "0"
+			"lightmapscale" "32"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "1665"
+			"plane" "(-480 -144 512) (-480 368 512) (-480 288 672)"
+			vertices_plus
+			{
+				"v" "-480 -144 512"
+				"v" "-480 368 512"
+				"v" "-480 288 672"
+				"v" "-480 -64 672"
+			}
+			"material" "LONDON/TILE/LONDON_TILEROOF_001C"
+			"uaxis" "[0 1 0 -384] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "32"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "1664"
+			"plane" "(-480 368 512) (-160 368 512) (-224 288 672)"
+			vertices_plus
+			{
+				"v" "-480 368 512"
+				"v" "-160 368 512"
+				"v" "-224 288 672"
+				"v" "-480 288 672"
+			}
+			"material" "LONDON/TILE/LONDON_TILEROOF_001C"
+			"uaxis" "[1 0 0 -384] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "32"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "1663"
+			"plane" "(-160 -144 512) (-480 -144 512) (-480 -64 672)"
+			vertices_plus
+			{
+				"v" "-160 -144 512"
+				"v" "-480 -144 512"
+				"v" "-480 -64 672"
+				"v" "-224 -64 672"
+			}
+			"material" "LONDON/TILE/LONDON_TILEROOF_001C"
+			"uaxis" "[1 0 0 -384] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "32"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "1662"
+			"plane" "(-160 368 512) (-160 -144 512) (-224 -64 672)"
+			vertices_plus
+			{
+				"v" "-160 368 512"
+				"v" "-160 -144 512"
+				"v" "-224 -64 672"
+				"v" "-224 288 672"
+			}
+			"material" "LONDON/TILE/LONDON_TILEROOF_001C"
+			"uaxis" "[0 1 0 -256] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "32"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 139 132"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "220"
+		side
+		{
+			"id" "1661"
+			"plane" "(-160 -192 544) (-160 256 544) (160 256 544)"
+			vertices_plus
+			{
+				"v" "-160 -192 544"
+				"v" "-160 256 544"
+				"v" "160 256 544"
+				"v" "160 -192 544"
+			}
+			"material" "LONDON/TILE/LONDON_TILEROOF_001C"
+			"uaxis" "[1 0 0 -640] 0.25"
+			"vaxis" "[0 -1 0 256] 0.25"
+			"rotation" "0"
+			"lightmapscale" "32"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "1660"
+			"plane" "(-160 336 384) (-160 -272 384) (160 -272 384)"
+			vertices_plus
+			{
+				"v" "-160 336 384"
+				"v" "-160 -272 384"
+				"v" "160 -272 384"
+				"v" "160 336 384"
+			}
+			"material" "LONDON/TILE/LONDON_TILEROOF_001C"
+			"uaxis" "[1 0 0 -640] 0.25"
+			"vaxis" "[0 -1 0 256] 0.25"
+			"rotation" "0"
+			"lightmapscale" "32"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "1659"
+			"plane" "(-160 336 384) (-160 256 544) (-160 -192 544)"
+			vertices_plus
+			{
+				"v" "-160 336 384"
+				"v" "-160 256 544"
+				"v" "-160 -192 544"
+				"v" "-160 -272 384"
+			}
+			"material" "LONDON/TILE/LONDON_TILEROOF_001C"
+			"uaxis" "[0 1 0 -256] 0.25"
+			"vaxis" "[0 0 -1 -512] 0.25"
+			"rotation" "0"
+			"lightmapscale" "32"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "1658"
+			"plane" "(160 336 384) (160 256 544) (-160 256 544)"
+			vertices_plus
+			{
+				"v" "160 336 384"
+				"v" "160 256 544"
+				"v" "-160 256 544"
+				"v" "-160 336 384"
+			}
+			"material" "LONDON/TILE/LONDON_TILEROOF_001C"
+			"uaxis" "[1 0 0 -640] 0.25"
+			"vaxis" "[0 0 -1 -512] 0.25"
+			"rotation" "0"
+			"lightmapscale" "32"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "1657"
+			"plane" "(-160 -272 384) (-160 -192 544) (160 -192 544)"
+			vertices_plus
+			{
+				"v" "-160 -272 384"
+				"v" "-160 -192 544"
+				"v" "160 -192 544"
+				"v" "160 -272 384"
+			}
+			"material" "LONDON/TILE/LONDON_TILEROOF_001C"
+			"uaxis" "[1 0 0 -640] 0.25"
+			"vaxis" "[0 0 -1 -512] 0.25"
+			"rotation" "0"
+			"lightmapscale" "32"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "1656"
+			"plane" "(160 -272 384) (160 -192 544) (160 256 544)"
+			vertices_plus
+			{
+				"v" "160 -272 384"
+				"v" "160 -192 544"
+				"v" "160 256 544"
+				"v" "160 336 384"
+			}
+			"material" "LONDON/TILE/LONDON_TILEROOF_001C"
+			"uaxis" "[0 1 0 -128] 0.25"
+			"vaxis" "[0 0 -1 -512] 0.25"
+			"rotation" "0"
+			"lightmapscale" "32"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 217 142"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "223"
+		side
+		{
+			"id" "1655"
+			"plane" "(224 224 672) (480 224 672) (480 -224 672)"
+			vertices_plus
+			{
+				"v" "224 224 672"
+				"v" "480 224 672"
+				"v" "480 -224 672"
+				"v" "224 -224 672"
+			}
+			"material" "LONDON/TILE/LONDON_TILEROOF_001C"
+			"uaxis" "[1 0 0 -896] 0.25"
+			"vaxis" "[0 -1 0 128] 0.25"
+			"rotation" "0"
+			"lightmapscale" "32"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "1654"
+			"plane" "(160 -304 512) (480 -304 512) (480 304 512)"
+			vertices_plus
+			{
+				"v" "160 -304 512"
+				"v" "480 -304 512"
+				"v" "480 304 512"
+				"v" "160 304 512"
+			}
+			"material" "LONDON/TILE/LONDON_TILEROOF_001C"
+			"uaxis" "[1 0 0 -896] 0.25"
+			"vaxis" "[0 -1 0 128] 0.25"
+			"rotation" "0"
+			"lightmapscale" "32"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "1653"
+			"plane" "(224 224 672) (224 -224 672) (160 -304 512)"
+			vertices_plus
+			{
+				"v" "224 224 672"
+				"v" "224 -224 672"
+				"v" "160 -304 512"
+				"v" "160 304 512"
+			}
+			"material" "LONDON/TILE/LONDON_TILEROOF_001C"
+			"uaxis" "[0 1 0 -128] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "32"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "1652"
+			"plane" "(480 224 672) (224 224 672) (160 304 512)"
+			vertices_plus
+			{
+				"v" "480 224 672"
+				"v" "224 224 672"
+				"v" "160 304 512"
+				"v" "480 304 512"
+			}
+			"material" "LONDON/TILE/LONDON_TILEROOF_001C"
+			"uaxis" "[1 0 0 -896] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "32"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "1651"
+			"plane" "(224 -224 672) (480 -224 672) (480 -304 512)"
+			vertices_plus
+			{
+				"v" "224 -224 672"
+				"v" "480 -224 672"
+				"v" "480 -304 512"
+				"v" "160 -304 512"
+			}
+			"material" "LONDON/TILE/LONDON_TILEROOF_001C"
+			"uaxis" "[1 0 0 -896] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "32"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "1650"
+			"plane" "(480 -224 672) (480 224 672) (480 304 512)"
+			vertices_plus
+			{
+				"v" "480 -224 672"
+				"v" "480 224 672"
+				"v" "480 304 512"
+				"v" "480 -304 512"
+			}
+			"material" "LONDON/TILE/LONDON_TILEROOF_001C"
+			"uaxis" "[0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "32"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 107 180"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "226"
+		side
+		{
+			"id" "1649"
+			"plane" "(800 -192 800) (544 -192 800) (544 384 800)"
+			vertices_plus
+			{
+				"v" "800 -192 800"
+				"v" "544 -192 800"
+				"v" "544 384 800"
+				"v" "800 384 800"
+			}
+			"material" "LONDON/TILE/LONDON_TILEROOF_001C"
+			"uaxis" "[1 0 0 -128] 0.25"
+			"vaxis" "[0 -1 0 512] 0.25"
+			"rotation" "0"
+			"lightmapscale" "32"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "1648"
+			"plane" "(800 464 640) (480 464 640) (480 -272 640)"
+			vertices_plus
+			{
+				"v" "800 464 640"
+				"v" "480 464 640"
+				"v" "480 -272 640"
+				"v" "800 -272 640"
+			}
+			"material" "LONDON/TILE/LONDON_TILEROOF_001C"
+			"uaxis" "[1 0 0 -128] 0.25"
+			"vaxis" "[0 -1 0 512] 0.25"
+			"rotation" "0"
+			"lightmapscale" "32"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "1647"
+			"plane" "(480 -272 640) (480 464 640) (544 384 800)"
+			vertices_plus
+			{
+				"v" "480 -272 640"
+				"v" "480 464 640"
+				"v" "544 384 800"
+				"v" "544 -192 800"
+			}
+			"material" "LONDON/TILE/LONDON_TILEROOF_001C"
+			"uaxis" "[0 1 0 -512] 0.25"
+			"vaxis" "[0 0 -1 512] 0.25"
+			"rotation" "0"
+			"lightmapscale" "32"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "1646"
+			"plane" "(480 464 640) (800 464 640) (800 384 800)"
+			vertices_plus
+			{
+				"v" "480 464 640"
+				"v" "800 464 640"
+				"v" "800 384 800"
+				"v" "544 384 800"
+			}
+			"material" "LONDON/TILE/LONDON_TILEROOF_001C"
+			"uaxis" "[1 0 0 -128] 0.25"
+			"vaxis" "[0 0 -1 512] 0.25"
+			"rotation" "0"
+			"lightmapscale" "32"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "1645"
+			"plane" "(800 -272 640) (480 -272 640) (544 -192 800)"
+			vertices_plus
+			{
+				"v" "800 -272 640"
+				"v" "480 -272 640"
+				"v" "544 -192 800"
+				"v" "800 -192 800"
+			}
+			"material" "LONDON/TILE/LONDON_TILEROOF_001C"
+			"uaxis" "[1 0 0 -128] 0.25"
+			"vaxis" "[0 0 -1 512] 0.25"
+			"rotation" "0"
+			"lightmapscale" "32"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "1644"
+			"plane" "(800 464 640) (800 -272 640) (800 -192 800)"
+			vertices_plus
+			{
+				"v" "800 464 640"
+				"v" "800 -272 640"
+				"v" "800 -192 800"
+				"v" "800 384 800"
+			}
+			"material" "LONDON/TILE/LONDON_TILEROOF_001C"
+			"uaxis" "[0 1 0 -384] 0.25"
+			"vaxis" "[0 0 -1 512] 0.25"
+			"rotation" "0"
+			"lightmapscale" "32"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 181 242"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "5586"
+		side
+		{
+			"id" "2884"
+			"plane" "(480 464 800) (800 464 800) (800 -272 800)"
+			vertices_plus
+			{
+				"v" "480 464 800"
+				"v" "800 464 800"
+				"v" "800 -272 800"
+				"v" "480 -272 800"
+			}
+			"material" "TOOLS/TOOLSHINT"
+			"uaxis" "[1 0 -0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "2885"
+			"plane" "(480 -272 640) (800 -272 640) (800 464 640)"
+			vertices_plus
+			{
+				"v" "480 -272 640"
+				"v" "800 -272 640"
+				"v" "800 464 640"
+				"v" "480 464 640"
+			}
+			"material" "TOOLS/TOOLSHINT"
+			"uaxis" "[-1 -0 -0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "2886"
+			"plane" "(480 464 800) (480 -272 800) (480 -272 640)"
+			vertices_plus
+			{
+				"v" "480 464 800"
+				"v" "480 -272 800"
+				"v" "480 -272 640"
+				"v" "480 464 640"
+			}
+			"material" "TOOLS/TOOLSHINT"
+			"uaxis" "[-0 -1 -0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "2887"
+			"plane" "(800 464 640) (800 -272 640) (800 -272 800)"
+			vertices_plus
+			{
+				"v" "800 464 640"
+				"v" "800 -272 640"
+				"v" "800 -272 800"
+				"v" "800 464 800"
+			}
+			"material" "TOOLS/TOOLSHINT"
+			"uaxis" "[-0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "2888"
+			"plane" "(800 464 800) (480 464 800) (480 464 640)"
+			vertices_plus
+			{
+				"v" "800 464 800"
+				"v" "480 464 800"
+				"v" "480 464 640"
+				"v" "800 464 640"
+			}
+			"material" "TOOLS/TOOLSHINT"
+			"uaxis" "[-1 0 -0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "2889"
+			"plane" "(800 -272 640) (480 -272 640) (480 -272 800)"
+			vertices_plus
+			{
+				"v" "800 -272 640"
+				"v" "480 -272 640"
+				"v" "480 -272 800"
+				"v" "800 -272 800"
+			}
+			"material" "TOOLS/TOOLSHINT"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 185 246"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "5587"
+		side
+		{
+			"id" "2890"
+			"plane" "(160 304 672) (480 304 672) (480 -304 672)"
+			vertices_plus
+			{
+				"v" "160 304 672"
+				"v" "480 304 672"
+				"v" "480 -304 672"
+				"v" "160 -304 672"
+			}
+			"material" "TOOLS/TOOLSHINT"
+			"uaxis" "[1 0 -0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "2891"
+			"plane" "(160 -304 512) (480 -304 512) (480 304 512)"
+			vertices_plus
+			{
+				"v" "160 -304 512"
+				"v" "480 -304 512"
+				"v" "480 304 512"
+				"v" "160 304 512"
+			}
+			"material" "TOOLS/TOOLSHINT"
+			"uaxis" "[-1 -0 -0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "2892"
+			"plane" "(160 304 672) (160 -304 672) (160 -304 512)"
+			vertices_plus
+			{
+				"v" "160 304 672"
+				"v" "160 -304 672"
+				"v" "160 -304 512"
+				"v" "160 304 512"
+			}
+			"material" "TOOLS/TOOLSHINT"
+			"uaxis" "[-0 -1 -0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "2893"
+			"plane" "(480 304 512) (480 -304 512) (480 -304 672)"
+			vertices_plus
+			{
+				"v" "480 304 512"
+				"v" "480 -304 512"
+				"v" "480 -304 672"
+				"v" "480 304 672"
+			}
+			"material" "TOOLS/TOOLSHINT"
+			"uaxis" "[-0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "2894"
+			"plane" "(480 304 672) (160 304 672) (160 304 512)"
+			vertices_plus
+			{
+				"v" "480 304 672"
+				"v" "160 304 672"
+				"v" "160 304 512"
+				"v" "480 304 512"
+			}
+			"material" "TOOLS/TOOLSHINT"
+			"uaxis" "[-1 0 -0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "2895"
+			"plane" "(480 -304 512) (160 -304 512) (160 -304 672)"
+			vertices_plus
+			{
+				"v" "480 -304 512"
+				"v" "160 -304 512"
+				"v" "160 -304 672"
+				"v" "480 -304 672"
+			}
+			"material" "TOOLS/TOOLSHINT"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 216 185"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "5588"
+		side
+		{
+			"id" "2896"
+			"plane" "(-160 336 544) (160 336 544) (160 -272 544)"
+			vertices_plus
+			{
+				"v" "-160 336 544"
+				"v" "160 336 544"
+				"v" "160 -272 544"
+				"v" "-160 -272 544"
+			}
+			"material" "TOOLS/TOOLSHINT"
+			"uaxis" "[1 0 -0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "2897"
+			"plane" "(-160 -272 384) (160 -272 384) (160 336 384)"
+			vertices_plus
+			{
+				"v" "-160 -272 384"
+				"v" "160 -272 384"
+				"v" "160 336 384"
+				"v" "-160 336 384"
+			}
+			"material" "TOOLS/TOOLSHINT"
+			"uaxis" "[-1 -0 -0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "2898"
+			"plane" "(-160 336 544) (-160 -272 544) (-160 -272 384)"
+			vertices_plus
+			{
+				"v" "-160 336 544"
+				"v" "-160 -272 544"
+				"v" "-160 -272 384"
+				"v" "-160 336 384"
+			}
+			"material" "TOOLS/TOOLSHINT"
+			"uaxis" "[-0 -1 -0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "2899"
+			"plane" "(160 336 384) (160 -272 384) (160 -272 544)"
+			vertices_plus
+			{
+				"v" "160 336 384"
+				"v" "160 -272 384"
+				"v" "160 -272 544"
+				"v" "160 336 544"
+			}
+			"material" "TOOLS/TOOLSHINT"
+			"uaxis" "[-0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "2900"
+			"plane" "(160 336 544) (-160 336 544) (-160 336 384)"
+			vertices_plus
+			{
+				"v" "160 336 544"
+				"v" "-160 336 544"
+				"v" "-160 336 384"
+				"v" "160 336 384"
+			}
+			"material" "TOOLS/TOOLSHINT"
+			"uaxis" "[-1 0 -0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "2901"
+			"plane" "(160 -272 384) (-160 -272 384) (-160 -272 544)"
+			vertices_plus
+			{
+				"v" "160 -272 384"
+				"v" "-160 -272 384"
+				"v" "-160 -272 544"
+				"v" "160 -272 544"
+			}
+			"material" "TOOLS/TOOLSHINT"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 106 159"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "5589"
+		side
+		{
+			"id" "2902"
+			"plane" "(-480 368 672) (-160 368 672) (-160 -144 672)"
+			vertices_plus
+			{
+				"v" "-480 368 672"
+				"v" "-160 368 672"
+				"v" "-160 -144 672"
+				"v" "-480 -144 672"
+			}
+			"material" "TOOLS/TOOLSHINT"
+			"uaxis" "[1 0 -0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "2903"
+			"plane" "(-480 -144 512) (-160 -144 512) (-160 368 512)"
+			vertices_plus
+			{
+				"v" "-480 -144 512"
+				"v" "-160 -144 512"
+				"v" "-160 368 512"
+				"v" "-480 368 512"
+			}
+			"material" "TOOLS/TOOLSHINT"
+			"uaxis" "[-1 -0 -0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "2904"
+			"plane" "(-480 368 672) (-480 -144 672) (-480 -144 512)"
+			vertices_plus
+			{
+				"v" "-480 368 672"
+				"v" "-480 -144 672"
+				"v" "-480 -144 512"
+				"v" "-480 368 512"
+			}
+			"material" "TOOLS/TOOLSHINT"
+			"uaxis" "[-0 -1 -0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "2905"
+			"plane" "(-160 368 512) (-160 -144 512) (-160 -144 672)"
+			vertices_plus
+			{
+				"v" "-160 368 512"
+				"v" "-160 -144 512"
+				"v" "-160 -144 672"
+				"v" "-160 368 672"
+			}
+			"material" "TOOLS/TOOLSHINT"
+			"uaxis" "[-0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "2906"
+			"plane" "(-160 368 672) (-480 368 672) (-480 368 512)"
+			vertices_plus
+			{
+				"v" "-160 368 672"
+				"v" "-480 368 672"
+				"v" "-480 368 512"
+				"v" "-160 368 512"
+			}
+			"material" "TOOLS/TOOLSHINT"
+			"uaxis" "[-1 0 -0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "2907"
+			"plane" "(-160 -144 512) (-480 -144 512) (-480 -144 672)"
+			vertices_plus
+			{
+				"v" "-160 -144 512"
+				"v" "-480 -144 512"
+				"v" "-480 -144 672"
+				"v" "-160 -144 672"
+			}
+			"material" "TOOLS/TOOLSHINT"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 136 181"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
+	solid
+	{
+		"id" "5590"
+		side
+		{
+			"id" "2908"
+			"plane" "(-880 368 672) (-480 368 672) (-480 -304 672)"
+			vertices_plus
+			{
+				"v" "-880 368 672"
+				"v" "-480 368 672"
+				"v" "-480 -304 672"
+				"v" "-880 -304 672"
+			}
+			"material" "TOOLS/TOOLSHINT"
+			"uaxis" "[1 0 -0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "2909"
+			"plane" "(-880 -304 512) (-480 -304 512) (-480 368 512)"
+			vertices_plus
+			{
+				"v" "-880 -304 512"
+				"v" "-480 -304 512"
+				"v" "-480 368 512"
+				"v" "-880 368 512"
+			}
+			"material" "TOOLS/TOOLSHINT"
+			"uaxis" "[-1 -0 -0 0] 0.25"
+			"vaxis" "[0 -1 0 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "2910"
+			"plane" "(-880 368 672) (-880 -304 672) (-880 -304 512)"
+			vertices_plus
+			{
+				"v" "-880 368 672"
+				"v" "-880 -304 672"
+				"v" "-880 -304 512"
+				"v" "-880 368 512"
+			}
+			"material" "TOOLS/TOOLSHINT"
+			"uaxis" "[-0 -1 -0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "2911"
+			"plane" "(-480 368 512) (-480 -304 512) (-480 -304 672)"
+			vertices_plus
+			{
+				"v" "-480 368 512"
+				"v" "-480 -304 512"
+				"v" "-480 -304 672"
+				"v" "-480 368 672"
+			}
+			"material" "TOOLS/TOOLSHINT"
+			"uaxis" "[-0 1 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "2912"
+			"plane" "(-480 368 672) (-880 368 672) (-880 368 512)"
+			vertices_plus
+			{
+				"v" "-480 368 672"
+				"v" "-880 368 672"
+				"v" "-880 368 512"
+				"v" "-480 368 512"
+			}
+			"material" "TOOLS/TOOLSHINT"
+			"uaxis" "[-1 0 -0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "2913"
+			"plane" "(-480 -304 512) (-880 -304 512) (-880 -304 672)"
+			vertices_plus
+			{
+				"v" "-480 -304 512"
+				"v" "-880 -304 512"
+				"v" "-880 -304 672"
+				"v" "-480 -304 672"
+			}
+			"material" "TOOLS/TOOLSHINT"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 0] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 154 139"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
 	group
 	{
 		"id" "4564"
@@ -12490,608 +13670,6 @@ entity
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[1500 12000]"
-	}
-}
-entity
-{
-	"id" "2765"
-	"classname" "func_detail"
-	solid
-	{
-		"id" "226"
-		side
-		{
-			"id" "1649"
-			"plane" "(800 -192 800) (544 -192 800) (544 384 800)"
-			vertices_plus
-			{
-				"v" "800 -192 800"
-				"v" "544 -192 800"
-				"v" "544 384 800"
-				"v" "800 384 800"
-			}
-			"material" "LONDON/TILE/LONDON_TILEROOF_001C"
-			"uaxis" "[1 0 0 -128] 0.25"
-			"vaxis" "[0 -1 0 512] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "1648"
-			"plane" "(800 464 640) (480 464 640) (480 -272 640)"
-			vertices_plus
-			{
-				"v" "800 464 640"
-				"v" "480 464 640"
-				"v" "480 -272 640"
-				"v" "800 -272 640"
-			}
-			"material" "LONDON/TILE/LONDON_TILEROOF_001C"
-			"uaxis" "[1 0 0 -128] 0.25"
-			"vaxis" "[0 -1 0 512] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "1647"
-			"plane" "(480 -272 640) (480 464 640) (544 384 800)"
-			vertices_plus
-			{
-				"v" "480 -272 640"
-				"v" "480 464 640"
-				"v" "544 384 800"
-				"v" "544 -192 800"
-			}
-			"material" "LONDON/TILE/LONDON_TILEROOF_001C"
-			"uaxis" "[0 1 0 -512] 0.25"
-			"vaxis" "[0 0 -1 512] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "1646"
-			"plane" "(480 464 640) (800 464 640) (800 384 800)"
-			vertices_plus
-			{
-				"v" "480 464 640"
-				"v" "800 464 640"
-				"v" "800 384 800"
-				"v" "544 384 800"
-			}
-			"material" "LONDON/TILE/LONDON_TILEROOF_001C"
-			"uaxis" "[1 0 0 -128] 0.25"
-			"vaxis" "[0 0 -1 512] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "1645"
-			"plane" "(800 -272 640) (480 -272 640) (544 -192 800)"
-			vertices_plus
-			{
-				"v" "800 -272 640"
-				"v" "480 -272 640"
-				"v" "544 -192 800"
-				"v" "800 -192 800"
-			}
-			"material" "LONDON/TILE/LONDON_TILEROOF_001C"
-			"uaxis" "[1 0 0 -128] 0.25"
-			"vaxis" "[0 0 -1 512] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "1644"
-			"plane" "(800 464 640) (800 -272 640) (800 -192 800)"
-			vertices_plus
-			{
-				"v" "800 464 640"
-				"v" "800 -272 640"
-				"v" "800 -192 800"
-				"v" "800 384 800"
-			}
-			"material" "LONDON/TILE/LONDON_TILEROOF_001C"
-			"uaxis" "[0 1 0 -384] 0.25"
-			"vaxis" "[0 0 -1 512] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		editor
-		{
-			"color" "0 180 0"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	solid
-	{
-		"id" "223"
-		side
-		{
-			"id" "1655"
-			"plane" "(224 224 672) (480 224 672) (480 -224 672)"
-			vertices_plus
-			{
-				"v" "224 224 672"
-				"v" "480 224 672"
-				"v" "480 -224 672"
-				"v" "224 -224 672"
-			}
-			"material" "LONDON/TILE/LONDON_TILEROOF_001C"
-			"uaxis" "[1 0 0 -896] 0.25"
-			"vaxis" "[0 -1 0 128] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "1654"
-			"plane" "(160 -304 512) (480 -304 512) (480 304 512)"
-			vertices_plus
-			{
-				"v" "160 -304 512"
-				"v" "480 -304 512"
-				"v" "480 304 512"
-				"v" "160 304 512"
-			}
-			"material" "LONDON/TILE/LONDON_TILEROOF_001C"
-			"uaxis" "[1 0 0 -896] 0.25"
-			"vaxis" "[0 -1 0 128] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "1653"
-			"plane" "(224 224 672) (224 -224 672) (160 -304 512)"
-			vertices_plus
-			{
-				"v" "224 224 672"
-				"v" "224 -224 672"
-				"v" "160 -304 512"
-				"v" "160 304 512"
-			}
-			"material" "LONDON/TILE/LONDON_TILEROOF_001C"
-			"uaxis" "[0 1 0 -128] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "1652"
-			"plane" "(480 224 672) (224 224 672) (160 304 512)"
-			vertices_plus
-			{
-				"v" "480 224 672"
-				"v" "224 224 672"
-				"v" "160 304 512"
-				"v" "480 304 512"
-			}
-			"material" "LONDON/TILE/LONDON_TILEROOF_001C"
-			"uaxis" "[1 0 0 -896] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "1651"
-			"plane" "(224 -224 672) (480 -224 672) (480 -304 512)"
-			vertices_plus
-			{
-				"v" "224 -224 672"
-				"v" "480 -224 672"
-				"v" "480 -304 512"
-				"v" "160 -304 512"
-			}
-			"material" "LONDON/TILE/LONDON_TILEROOF_001C"
-			"uaxis" "[1 0 0 -896] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "1650"
-			"plane" "(480 -224 672) (480 224 672) (480 304 512)"
-			vertices_plus
-			{
-				"v" "480 -224 672"
-				"v" "480 224 672"
-				"v" "480 304 512"
-				"v" "480 -304 512"
-			}
-			"material" "LONDON/TILE/LONDON_TILEROOF_001C"
-			"uaxis" "[0 1 0 0] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		editor
-		{
-			"color" "0 180 0"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	solid
-	{
-		"id" "220"
-		side
-		{
-			"id" "1661"
-			"plane" "(-160 -192 544) (-160 256 544) (160 256 544)"
-			vertices_plus
-			{
-				"v" "-160 -192 544"
-				"v" "-160 256 544"
-				"v" "160 256 544"
-				"v" "160 -192 544"
-			}
-			"material" "LONDON/TILE/LONDON_TILEROOF_001C"
-			"uaxis" "[1 0 0 -640] 0.25"
-			"vaxis" "[0 -1 0 256] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "1660"
-			"plane" "(-160 336 384) (-160 -272 384) (160 -272 384)"
-			vertices_plus
-			{
-				"v" "-160 336 384"
-				"v" "-160 -272 384"
-				"v" "160 -272 384"
-				"v" "160 336 384"
-			}
-			"material" "LONDON/TILE/LONDON_TILEROOF_001C"
-			"uaxis" "[1 0 0 -640] 0.25"
-			"vaxis" "[0 -1 0 256] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "1659"
-			"plane" "(-160 336 384) (-160 256 544) (-160 -192 544)"
-			vertices_plus
-			{
-				"v" "-160 336 384"
-				"v" "-160 256 544"
-				"v" "-160 -192 544"
-				"v" "-160 -272 384"
-			}
-			"material" "LONDON/TILE/LONDON_TILEROOF_001C"
-			"uaxis" "[0 1 0 -256] 0.25"
-			"vaxis" "[0 0 -1 -512] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "1658"
-			"plane" "(160 336 384) (160 256 544) (-160 256 544)"
-			vertices_plus
-			{
-				"v" "160 336 384"
-				"v" "160 256 544"
-				"v" "-160 256 544"
-				"v" "-160 336 384"
-			}
-			"material" "LONDON/TILE/LONDON_TILEROOF_001C"
-			"uaxis" "[1 0 0 -640] 0.25"
-			"vaxis" "[0 0 -1 -512] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "1657"
-			"plane" "(-160 -272 384) (-160 -192 544) (160 -192 544)"
-			vertices_plus
-			{
-				"v" "-160 -272 384"
-				"v" "-160 -192 544"
-				"v" "160 -192 544"
-				"v" "160 -272 384"
-			}
-			"material" "LONDON/TILE/LONDON_TILEROOF_001C"
-			"uaxis" "[1 0 0 -640] 0.25"
-			"vaxis" "[0 0 -1 -512] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "1656"
-			"plane" "(160 -272 384) (160 -192 544) (160 256 544)"
-			vertices_plus
-			{
-				"v" "160 -272 384"
-				"v" "160 -192 544"
-				"v" "160 256 544"
-				"v" "160 336 384"
-			}
-			"material" "LONDON/TILE/LONDON_TILEROOF_001C"
-			"uaxis" "[0 1 0 -128] 0.25"
-			"vaxis" "[0 0 -1 -512] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		editor
-		{
-			"color" "0 180 0"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	solid
-	{
-		"id" "217"
-		side
-		{
-			"id" "1667"
-			"plane" "(-224 -64 672) (-480 -64 672) (-480 288 672)"
-			vertices_plus
-			{
-				"v" "-224 -64 672"
-				"v" "-480 -64 672"
-				"v" "-480 288 672"
-				"v" "-224 288 672"
-			}
-			"material" "LONDON/TILE/LONDON_TILEROOF_001C"
-			"uaxis" "[1 0 0 -384] 0.25"
-			"vaxis" "[0 -1 0 384] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "1666"
-			"plane" "(-160 368 512) (-480 368 512) (-480 -144 512)"
-			vertices_plus
-			{
-				"v" "-160 368 512"
-				"v" "-480 368 512"
-				"v" "-480 -144 512"
-				"v" "-160 -144 512"
-			}
-			"material" "LONDON/TILE/LONDON_TILEROOF_001C"
-			"uaxis" "[1 0 0 -384] 0.25"
-			"vaxis" "[0 -1 0 384] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "1665"
-			"plane" "(-480 -144 512) (-480 368 512) (-480 288 672)"
-			vertices_plus
-			{
-				"v" "-480 -144 512"
-				"v" "-480 368 512"
-				"v" "-480 288 672"
-				"v" "-480 -64 672"
-			}
-			"material" "LONDON/TILE/LONDON_TILEROOF_001C"
-			"uaxis" "[0 1 0 -384] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "1664"
-			"plane" "(-480 368 512) (-160 368 512) (-224 288 672)"
-			vertices_plus
-			{
-				"v" "-480 368 512"
-				"v" "-160 368 512"
-				"v" "-224 288 672"
-				"v" "-480 288 672"
-			}
-			"material" "LONDON/TILE/LONDON_TILEROOF_001C"
-			"uaxis" "[1 0 0 -384] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "1663"
-			"plane" "(-160 -144 512) (-480 -144 512) (-480 -64 672)"
-			vertices_plus
-			{
-				"v" "-160 -144 512"
-				"v" "-480 -144 512"
-				"v" "-480 -64 672"
-				"v" "-224 -64 672"
-			}
-			"material" "LONDON/TILE/LONDON_TILEROOF_001C"
-			"uaxis" "[1 0 0 -384] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "1662"
-			"plane" "(-160 368 512) (-160 -144 512) (-224 -64 672)"
-			vertices_plus
-			{
-				"v" "-160 368 512"
-				"v" "-160 -144 512"
-				"v" "-224 -64 672"
-				"v" "-224 288 672"
-			}
-			"material" "LONDON/TILE/LONDON_TILEROOF_001C"
-			"uaxis" "[0 1 0 -256] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		editor
-		{
-			"color" "0 180 0"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	solid
-	{
-		"id" "168"
-		side
-		{
-			"id" "1673"
-			"plane" "(-480 -224 672) (-800 -224 672) (-800 288 672)"
-			vertices_plus
-			{
-				"v" "-480 -224 672"
-				"v" "-800 -224 672"
-				"v" "-800 288 672"
-				"v" "-480 288 672"
-			}
-			"material" "LONDON/TILE/LONDON_TILEROOF_001C"
-			"uaxis" "[1 0 0 128] 0.25"
-			"vaxis" "[0 -1 0 128] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "1672"
-			"plane" "(-480 368 512) (-880 368 512) (-880 -304 512)"
-			vertices_plus
-			{
-				"v" "-480 368 512"
-				"v" "-880 368 512"
-				"v" "-880 -304 512"
-				"v" "-480 -304 512"
-			}
-			"material" "LONDON/TILE/LONDON_TILEROOF_001C"
-			"uaxis" "[1 0 0 128] 0.25"
-			"vaxis" "[0 -1 0 128] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "1671"
-			"plane" "(-880 -304 512) (-880 368 512) (-800 288 672)"
-			vertices_plus
-			{
-				"v" "-880 -304 512"
-				"v" "-880 368 512"
-				"v" "-800 288 672"
-				"v" "-800 -224 672"
-			}
-			"material" "LONDON/TILE/LONDON_TILEROOF_001C"
-			"uaxis" "[0 1 0 -128] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "1670"
-			"plane" "(-880 368 512) (-480 368 512) (-480 288 672)"
-			vertices_plus
-			{
-				"v" "-880 368 512"
-				"v" "-480 368 512"
-				"v" "-480 288 672"
-				"v" "-800 288 672"
-			}
-			"material" "LONDON/TILE/LONDON_TILEROOF_001C"
-			"uaxis" "[1 0 0 128] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "1669"
-			"plane" "(-480 -304 512) (-880 -304 512) (-800 -224 672)"
-			vertices_plus
-			{
-				"v" "-480 -304 512"
-				"v" "-880 -304 512"
-				"v" "-800 -224 672"
-				"v" "-480 -224 672"
-			}
-			"material" "LONDON/TILE/LONDON_TILEROOF_001C"
-			"uaxis" "[1 0 0 128] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		side
-		{
-			"id" "1668"
-			"plane" "(-480 368 512) (-480 -304 512) (-480 -224 672)"
-			vertices_plus
-			{
-				"v" "-480 368 512"
-				"v" "-480 -304 512"
-				"v" "-480 -224 672"
-				"v" "-480 288 672"
-			}
-			"material" "LONDON/TILE/LONDON_TILEROOF_001C"
-			"uaxis" "[0 1 0 0] 0.25"
-			"vaxis" "[0 0 -1 0] 0.25"
-			"rotation" "0"
-			"lightmapscale" "16"
-			"smoothing_groups" "0"
-		}
-		editor
-		{
-			"color" "0 180 0"
-			"visgroupshown" "1"
-			"visgroupautoshown" "1"
-		}
-	}
-	editor
-	{
-		"color" "0 180 0"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[1500 13000]"
 	}
 }
 entity

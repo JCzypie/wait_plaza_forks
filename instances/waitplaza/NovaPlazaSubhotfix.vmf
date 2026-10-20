@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "8872"
-	"mapversion" "102"
+	"mapversion" "107"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -89,7 +89,7 @@ bgimages_plus
 world
 {
 	"id" "1"
-	"mapversion" "102"
+	"mapversion" "107"
 	"classname" "worldspawn"
 	"chaptertitlenomessage" "1"
 	"detailmaterial" "detail/detailsprites_2fort"
@@ -3144,7 +3144,7 @@ world
 				"v" "-40 -640 712"
 				"v" "-40 -496 712"
 			}
-			"material" "CP_MAYAN/AZTEC_FLAT_WALL03B"
+			"material" "CONSTRUCTION/CONCRETE/CONCRETEFRESH001"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -3162,7 +3162,7 @@ world
 				"v" "704 -496 696"
 				"v" "-40 -496 696"
 			}
-			"material" "CP_MAYAN/AZTEC_FLAT_WALL03"
+			"material" "CONSTRUCTION/CONCRETE/CONCRETEFRESH001"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -3180,7 +3180,7 @@ world
 				"v" "704 -640 712"
 				"v" "704 -496 712"
 			}
-			"material" "CP_MAYAN/AZTEC_FLAT_WALL03B"
+			"material" "CONSTRUCTION/CONCRETE/CONCRETEFRESH001"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -3198,7 +3198,7 @@ world
 				"v" "-40 -640 712"
 				"v" "704 -640 712"
 			}
-			"material" "CP_MAYAN/AZTEC_FLAT_WALL03B"
+			"material" "CONSTRUCTION/CONCRETE/CONCRETEFRESH001"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -3216,9 +3216,9 @@ world
 				"v" "-40 -496 712"
 				"v" "-40 -640 712"
 			}
-			"material" "CP_MAYAN/AZTEC_FLAT_WALL03B"
+			"material" "ASBESTOS/CONCRETEWALL009B"
 			"uaxis" "[0 1 0 0] 0.25"
-			"vaxis" "[0 0 -1 736] 0.25"
+			"vaxis" "[0 0 -1 224] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -3234,7 +3234,7 @@ world
 				"v" "704 -496 712"
 				"v" "-40 -496 712"
 			}
-			"material" "CP_MAYAN/AZTEC_FLAT_WALL03B"
+			"material" "CONSTRUCTION/CONCRETE/CONCRETEFRESH001"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -3263,7 +3263,7 @@ world
 				"v" "704 -496 712"
 				"v" "-40 -496 712"
 			}
-			"material" "CP_MAYAN/AZTEC_FLAT_WALL03B"
+			"material" "CONSTRUCTION/CONCRETE/CONCRETEFRESH001"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -3281,7 +3281,7 @@ world
 				"v" "-40 320 696"
 				"v" "-40 -496 696"
 			}
-			"material" "CP_MAYAN/AZTEC_FLAT_WALL03"
+			"material" "CONSTRUCTION/CONCRETE/CONCRETEFRESH001"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -3299,7 +3299,7 @@ world
 				"v" "704 -496 712"
 				"v" "704 320 712"
 			}
-			"material" "CP_MAYAN/AZTEC_FLAT_WALL03B"
+			"material" "CONSTRUCTION/CONCRETE/CONCRETEFRESH001"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -3317,7 +3317,7 @@ world
 				"v" "704 320 712"
 				"v" "-40 320 712"
 			}
-			"material" "CP_MAYAN/AZTEC_FLAT_WALL03B"
+			"material" "CONSTRUCTION/CONCRETE/CONCRETEFRESH001"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -3335,7 +3335,7 @@ world
 				"v" "-40 320 712"
 				"v" "-40 -496 712"
 			}
-			"material" "CP_MAYAN/AZTEC_FLAT_WALL03B"
+			"material" "CONSTRUCTION/CONCRETE/CONCRETEFRESH001"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -3353,7 +3353,7 @@ world
 				"v" "-40 -496 712"
 				"v" "704 -496 712"
 			}
-			"material" "CP_MAYAN/AZTEC_FLAT_WALL03B"
+			"material" "CONSTRUCTION/CONCRETE/CONCRETEFRESH001"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -3382,7 +3382,7 @@ world
 				"v" "-832 -496 712"
 				"v" "-120 -496 712"
 			}
-			"material" "CP_MAYAN/AZTEC_FLAT_WALL03B"
+			"material" "CONSTRUCTION/CONCRETE/CONCRETEFRESH001"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -3400,7 +3400,7 @@ world
 				"v" "-120 -640 696"
 				"v" "-120 -496 696"
 			}
-			"material" "CP_MAYAN/AZTEC_FLAT_WALL03"
+			"material" "CONSTRUCTION/CONCRETE/CONCRETEFRESH001"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -3418,7 +3418,7 @@ world
 				"v" "-832 -496 712"
 				"v" "-832 -640 712"
 			}
-			"material" "CP_MAYAN/AZTEC_FLAT_WALL03B"
+			"material" "CONSTRUCTION/CONCRETE/CONCRETEFRESH001"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -3436,7 +3436,7 @@ world
 				"v" "-832 -640 712"
 				"v" "-120 -640 712"
 			}
-			"material" "CP_MAYAN/AZTEC_FLAT_WALL03B"
+			"material" "CONSTRUCTION/CONCRETE/CONCRETEFRESH001"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -3454,9 +3454,9 @@ world
 				"v" "-120 -640 712"
 				"v" "-120 -496 712"
 			}
-			"material" "CP_MAYAN/AZTEC_FLAT_WALL03B"
+			"material" "ASBESTOS/CONCRETEWALL009B"
 			"uaxis" "[0 1 0 0] 0.25"
-			"vaxis" "[0 0 -1 736] 0.25"
+			"vaxis" "[0 0 -1 224] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -3472,7 +3472,7 @@ world
 				"v" "-120 -496 712"
 				"v" "-832 -496 712"
 			}
-			"material" "CP_MAYAN/AZTEC_FLAT_WALL03B"
+			"material" "CONSTRUCTION/CONCRETE/CONCRETEFRESH001"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -3501,7 +3501,7 @@ world
 				"v" "-120 320 712"
 				"v" "-120 -496 712"
 			}
-			"material" "CP_MAYAN/AZTEC_FLAT_WALL03B"
+			"material" "CONSTRUCTION/CONCRETE/CONCRETEFRESH001"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -3519,7 +3519,7 @@ world
 				"v" "-832 -496 696"
 				"v" "-120 -496 696"
 			}
-			"material" "CP_MAYAN/AZTEC_FLAT_WALL03"
+			"material" "CONSTRUCTION/CONCRETE/CONCRETEFRESH001"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -3537,7 +3537,7 @@ world
 				"v" "-832 320 712"
 				"v" "-832 -496 712"
 			}
-			"material" "CP_MAYAN/AZTEC_FLAT_WALL03B"
+			"material" "CONSTRUCTION/CONCRETE/CONCRETEFRESH001"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -3555,7 +3555,7 @@ world
 				"v" "-120 320 712"
 				"v" "-832 320 712"
 			}
-			"material" "CP_MAYAN/AZTEC_FLAT_WALL03B"
+			"material" "CONSTRUCTION/CONCRETE/CONCRETEFRESH001"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -3573,7 +3573,7 @@ world
 				"v" "-120 -496 712"
 				"v" "-120 320 712"
 			}
-			"material" "CP_MAYAN/AZTEC_FLAT_WALL03B"
+			"material" "CONSTRUCTION/CONCRETE/CONCRETEFRESH001"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -3591,7 +3591,7 @@ world
 				"v" "-832 -496 712"
 				"v" "-120 -496 712"
 			}
-			"material" "CP_MAYAN/AZTEC_FLAT_WALL03B"
+			"material" "CONSTRUCTION/CONCRETE/CONCRETEFRESH001"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -3620,7 +3620,7 @@ world
 				"v" "-120 -576 712"
 				"v" "-40 -576 712"
 			}
-			"material" "CP_MAYAN/AZTEC_FLAT_WALL03B"
+			"material" "CONSTRUCTION/CONCRETE/CONCRETEFRESH001"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -3638,7 +3638,7 @@ world
 				"v" "-40 -640 696"
 				"v" "-40 -576 696"
 			}
-			"material" "CP_MAYAN/AZTEC_FLAT_WALL03B"
+			"material" "CONSTRUCTION/CONCRETE/CONCRETEFRESH001"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -3656,7 +3656,7 @@ world
 				"v" "-120 -640 712"
 				"v" "-40 -640 712"
 			}
-			"material" "CP_MAYAN/AZTEC_FLAT_WALL03B"
+			"material" "CONSTRUCTION/CONCRETE/CONCRETEFRESH001"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -3674,7 +3674,7 @@ world
 				"v" "-40 -640 712"
 				"v" "-40 -576 712"
 			}
-			"material" "CP_MAYAN/AZTEC_FLAT_WALL03B"
+			"material" "CONSTRUCTION/CONCRETE/CONCRETEFRESH001"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -3692,7 +3692,7 @@ world
 				"v" "-120 -576 712"
 				"v" "-120 -640 712"
 			}
-			"material" "CP_MAYAN/AZTEC_FLAT_WALL03B"
+			"material" "CONSTRUCTION/CONCRETE/CONCRETEFRESH001"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -3710,9 +3710,9 @@ world
 				"v" "-40 -576 712"
 				"v" "-120 -576 712"
 			}
-			"material" "CP_MAYAN/AZTEC_FLAT_WALL03B"
+			"material" "ASBESTOS/CONCRETEWALL009B"
 			"uaxis" "[1 0 0 0] 0.25"
-			"vaxis" "[0 0 -1 736] 0.25"
+			"vaxis" "[0 0 -1 224] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -3739,7 +3739,7 @@ world
 				"v" "-40 320 712"
 				"v" "-40 -496 712"
 			}
-			"material" "CP_MAYAN/AZTEC_FLAT_WALL03B"
+			"material" "CONSTRUCTION/CONCRETE/CONCRETEFRESH001"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -3757,7 +3757,7 @@ world
 				"v" "-120 -496 696"
 				"v" "-40 -496 696"
 			}
-			"material" "CP_MAYAN/AZTEC_FLAT_WALL03"
+			"material" "CONSTRUCTION/CONCRETE/CONCRETEFRESH001"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 -1 0 0] 0.25"
 			"rotation" "0"
@@ -3775,7 +3775,7 @@ world
 				"v" "-40 320 712"
 				"v" "-120 320 712"
 			}
-			"material" "CP_MAYAN/AZTEC_FLAT_WALL03B"
+			"material" "CONSTRUCTION/CONCRETE/CONCRETEFRESH001"
 			"uaxis" "[1 0 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -3793,7 +3793,7 @@ world
 				"v" "-40 -496 712"
 				"v" "-40 320 712"
 			}
-			"material" "CP_MAYAN/AZTEC_FLAT_WALL03B"
+			"material" "CONSTRUCTION/CONCRETE/CONCRETEFRESH001"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -3811,7 +3811,7 @@ world
 				"v" "-120 320 712"
 				"v" "-120 -496 712"
 			}
-			"material" "CP_MAYAN/AZTEC_FLAT_WALL03B"
+			"material" "CONSTRUCTION/CONCRETE/CONCRETEFRESH001"
 			"uaxis" "[0 1 0 0] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
@@ -3829,9 +3829,9 @@ world
 				"v" "-120 -496 712"
 				"v" "-40 -496 712"
 			}
-			"material" "CP_MAYAN/AZTEC_FLAT_WALL03B"
+			"material" "ASBESTOS/CONCRETEWALL009B"
 			"uaxis" "[1 0 0 0] 0.25"
-			"vaxis" "[0 0 -1 736] 0.25"
+			"vaxis" "[0 0 -1 224] 0.25"
 			"rotation" "0"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
@@ -5169,7 +5169,7 @@ entity
 	"fadescale" "1"
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
-	"model" "models/props/furniture/desks/desks/laboratorydesk02.mdl"
+	"model" "models/props/furniture/tables/table001a_64/table001a_64.mdl"
 	"skin" "0"
 	"solid" "6"
 	"origin" "464 -552 64"
@@ -5211,10 +5211,10 @@ entity
 	"fadescale" "1"
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
-	"model" "models/props/techdeco/computers/monitorkeyboard.mdl"
+	"model" "models/props_lab/monitor02.mdl"
 	"skin" "0"
 	"solid" "6"
-	"origin" "448 -552 106.875"
+	"origin" "448 -552 112"
 	editor
 	{
 		"color" "255 255 0"
@@ -5235,7 +5235,7 @@ entity
 	"model" "models/props_2fort/telephone001.mdl"
 	"skin" "9"
 	"solid" "6"
-	"origin" "480 -560 106.875"
+	"origin" "480 -560 112"
 	editor
 	{
 		"color" "255 255 0"
@@ -5274,7 +5274,7 @@ entity
 	"fadescale" "1"
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
-	"model" "models/props/furniture/desks/desks/laboratorydesk02.mdl"
+	"model" "models/props/furniture/tables/table001a_64/table001a_64.mdl"
 	"skin" "0"
 	"solid" "6"
 	"origin" "392 -552 64"
@@ -5295,10 +5295,10 @@ entity
 	"fadescale" "1"
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
-	"model" "models/props/techdeco/computers/monitorkeyboard.mdl"
+	"model" "models/props_lab/monitor02.mdl"
 	"skin" "0"
 	"solid" "6"
-	"origin" "376 -552 106.875"
+	"origin" "376 -552 112"
 	editor
 	{
 		"color" "255 255 0"
@@ -5319,7 +5319,7 @@ entity
 	"model" "models/props_2fort/telephone001.mdl"
 	"skin" "1"
 	"solid" "6"
-	"origin" "408 -560 106.875"
+	"origin" "408 -560 112"
 	editor
 	{
 		"color" "255 255 0"
@@ -5358,7 +5358,7 @@ entity
 	"fadescale" "1"
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
-	"model" "models/props/furniture/desks/desks/laboratorydesk02.mdl"
+	"model" "models/props/furniture/tables/table001a_64/table001a_64.mdl"
 	"skin" "0"
 	"solid" "6"
 	"origin" "320 -552 64"
@@ -5379,10 +5379,10 @@ entity
 	"fadescale" "1"
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
-	"model" "models/props/techdeco/computers/monitorkeyboard.mdl"
+	"model" "models/props_lab/monitor02.mdl"
 	"skin" "0"
 	"solid" "6"
-	"origin" "304 -552 106.875"
+	"origin" "304 -552 112"
 	editor
 	{
 		"color" "255 255 0"
@@ -5403,7 +5403,7 @@ entity
 	"model" "models/props_2fort/telephone001.mdl"
 	"skin" "5"
 	"solid" "6"
-	"origin" "336 -560 106.875"
+	"origin" "336 -560 112"
 	editor
 	{
 		"color" "255 255 0"
@@ -5442,7 +5442,7 @@ entity
 	"fadescale" "1"
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
-	"model" "models/props/furniture/desks/desks/laboratorydesk02.mdl"
+	"model" "models/props/furniture/tables/table001a_64/table001a_64.mdl"
 	"skin" "0"
 	"solid" "6"
 	"origin" "248 -552 64"
@@ -5463,10 +5463,10 @@ entity
 	"fadescale" "1"
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
-	"model" "models/props/techdeco/computers/monitorkeyboard.mdl"
+	"model" "models/props_lab/monitor02.mdl"
 	"skin" "0"
 	"solid" "6"
-	"origin" "232 -552 106.875"
+	"origin" "232 -552 112"
 	editor
 	{
 		"color" "255 255 0"
@@ -5487,7 +5487,7 @@ entity
 	"model" "models/props_2fort/telephone001.mdl"
 	"skin" "2"
 	"solid" "6"
-	"origin" "264 -560 106.875"
+	"origin" "264 -560 112"
 	editor
 	{
 		"color" "255 255 0"
@@ -5526,7 +5526,7 @@ entity
 	"fadescale" "1"
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
-	"model" "models/props/furniture/desks/desks/laboratorydesk02.mdl"
+	"model" "models/props/furniture/tables/table001a_64/table001a_64.mdl"
 	"skin" "0"
 	"solid" "6"
 	"origin" "176 -552 64"
@@ -5547,10 +5547,10 @@ entity
 	"fadescale" "1"
 	"lightmapresolutionx" "32"
 	"lightmapresolutiony" "32"
-	"model" "models/props/techdeco/computers/monitorkeyboard.mdl"
+	"model" "models/props_lab/monitor02.mdl"
 	"skin" "0"
 	"solid" "6"
-	"origin" "160 -552 106.875"
+	"origin" "160 -552 112"
 	editor
 	{
 		"color" "255 255 0"
@@ -5571,7 +5571,7 @@ entity
 	"model" "models/props_2fort/telephone001.mdl"
 	"skin" "0"
 	"solid" "6"
-	"origin" "192 -560 106.875"
+	"origin" "192 -560 112"
 	editor
 	{
 		"color" "255 255 0"

@@ -1,6 +1,0 @@
-"LightmappedGeneric"
-{
-	"$basetexture" "tools/toolsnodraw"
-	"$surfaceprop" "Default_silent"
-	"$selfillum" 1
-}
