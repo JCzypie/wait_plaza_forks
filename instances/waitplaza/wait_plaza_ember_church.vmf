@@ -1,8 +1,8 @@
 versioninfo
 {
 	"editorversion" "400"
-	"editorbuild" "8868"
-	"mapversion" "23"
+	"editorbuild" "8872"
+	"mapversion" "25"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -89,12 +89,14 @@ bgimages_plus
 world
 {
 	"id" "1"
-	"mapversion" "23"
+	"mapversion" "25"
 	"classname" "worldspawn"
+	"chaptertitlenomessage" "1"
 	"detailmaterial" "detail/detailsprites_2fort"
 	"detailvbsp" "detail_2fort.vbsp"
 	"maxpropscreenwidth" "-1"
 	"skyname" "sky_tf2_04"
+	"vscriptlanguage_client" "-2"
 	solid
 	{
 		"id" "1105"
@@ -113,7 +115,7 @@ world
 			"uaxis" "[1 0 0 -419.572] 0.25"
 			"vaxis" "[0 -1 0 704] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -128,10 +130,10 @@ world
 				"v" "-432 1072 0"
 			}
 			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[-1 -0 -0 -64] 0.25"
+			"uaxis" "[-1 0 0 -64] 0.25"
 			"vaxis" "[0 -1 0 64] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -146,10 +148,10 @@ world
 				"v" "-432 1072 0"
 			}
 			"material" "BRICK/BRICKWALL002"
-			"uaxis" "[-0 -1 -0 704] 0.25"
+			"uaxis" "[0 -1 0 704] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -164,10 +166,10 @@ world
 				"v" "-176 1072 640"
 			}
 			"material" "BRICK/BRICKWALL002"
-			"uaxis" "[-0 1 0 -704] 0.25"
+			"uaxis" "[0 1 0 -704] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -182,10 +184,10 @@ world
 				"v" "-176 1072 0"
 			}
 			"material" "BRICK/BRICKWALL002"
-			"uaxis" "[-1 0 -0 -192] 0.25"
+			"uaxis" "[-1 0 0 -192] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -203,7 +205,7 @@ world
 			"uaxis" "[1 0 0 192] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
 			"rotation" "0"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		editor
@@ -3361,6 +3363,7 @@ entity
 	"id" "2575"
 	"classname" "filter_damage_type"
 	"damagetype" "8"
+	"filtertype" "1"
 	"Negated" "1"
 	"targetname" "nofire_filter"
 	"origin" "-288 896 692"
@@ -3422,8 +3425,8 @@ entity
 	"StartDisabled" "0"
 	connections
 	{
-		"OnTakeDamage" "bell_dong,PlaySound,,0,-1"
-		"OnTakeDamage" "bell_shake,StartShake,,0,-1"
+		"OnTakeDamage" "bell_dongPlaySound0-1"
+		"OnTakeDamage" "bell_shakeStartShake0-1"
 	}
 	"origin" "-304 960 656"
 	editor
@@ -9738,7 +9741,7 @@ entity
 			"uaxis" "[0 -1 0 640] 0.25"
 			"vaxis" "[-1 0 0 -192] 0.25"
 			"rotation" "-90"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
@@ -9756,7 +9759,7 @@ entity
 			"uaxis" "[0 1 0 -640] 0.25"
 			"vaxis" "[1 0 0 128] 0.25"
 			"rotation" "90"
-			"lightmapscale" "16"
+			"lightmapscale" "32"
 			"smoothing_groups" "0"
 		}
 		side
